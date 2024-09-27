@@ -1,6 +1,7 @@
+### THIS PROJECT HAS BEEN DEPRECATED
+# PLEASE NOW SUBMIT YOUR PROJECTS USING THIS FORM: https://core.app/discover/my-projects/
+
 ![AvalancheLogoRed](https://user-images.githubusercontent.com/91836041/145524214-bf21f7ae-8ae4-4a89-86f0-7630e5220cba.png)
-
-
 
 # Avalanche Ecosystem
 
@@ -13,7 +14,7 @@ If you are interested in adding your project to the Avalanche Ecosystem page, pl
 The are 3 steps to submit a project. Create a pull request composed of two filesgs. And submit a typeform.
   1. In the `projects` directory include the project info listed below. Name the file {{slug}}.json
   2. In the `img` directory include an image to represent your project.
-  3. Submit the project's information via the following link https://yleojkzxfvm.typeform.com/avaxproject. 
+  3. Submit the project's information via the following link https://avalancheavax.typeform.com/avaxprojects. 
 
 Submissions that do not perform all 3 steps will not be considered.
 
@@ -85,6 +86,8 @@ art
 ava labs
 avalanche native
 bridge
+card Game
+casual
 cex
 culture
 custody
@@ -99,16 +102,22 @@ enterprise
 exchange
 explorer
 fiat ramp
+fit-fi
+fps
 funds
 gaming
 governance
 government
+guild
+idle
 incubators
 infrastructure
-institutional 
+institutional
 launchpads
 lending
 marketplace
+mmorpg
+moba
 multi-chain
 news
 nft
@@ -119,6 +128,8 @@ oracle
 payments
 play-to-earn
 portfolio
+racing
+rts
 sdk
 security
 stablecoin

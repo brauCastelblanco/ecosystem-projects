@@ -1,6 +1,26 @@
 {
   "projects": [
     {
+      "name": "0dos",
+      "slug": "0dos",
+      "date": "2022-12-02",
+      "highlight": "The Optimal DEX Aggregator",
+      "logo": "/img/0dos.png",
+      "tags": [
+        "defi",
+        "dapp"
+      ],
+      "status": "live",
+      "website": "https://app.odos.xyz/swap/43114/AVAX/DAI.e",
+      "twitter": "https://twitter.com/odosprotocol",
+      "summary": "Odos is a DEX aggregator leveraging a unique algorithm to traverse a large universe of possible token swap combinations and non-linear paths, delivering the greatest savings to its users!",
+      "telegram": "https://t.me/OdosProtocol",
+      "discord": "https://discord.com/invite/odos",
+      "docs": "",
+      "github": "",
+      "token": ""
+    },
+    {
       "name": "1inch",
       "slug": "1inch",
       "date": "2022-02-16",
@@ -39,6 +59,49 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Aboard Exchange",
+      "slug": "aboard-exchange",
+      "date": "2022-03-01",
+      "highlight": "Avalanche's exchange, providing the most number of perpetual trading pairs and hedging trading strategies.",
+      "logo": "/img/aboard-exchange.png",
+      "tags": [
+        "api",
+        "exchange",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://aboard.exchange/trade",
+      "twitter": "https://twitter.com/AboardExchange",
+      "summary": "Aboard is an order book decentralized derivatives exchange that will bring centralized trading experience into the DeFi world. We offer the most number of perpetual trading pairs on Avalanche and Arbitrum. Traders can enjoy 0 gas fee and an ultra-smooth trading experience.",
+      "telegram": "https://t.me/avalancheavax",
+      "discord": "https://discord.com/invite/n7r73ehJtf",
+      "docs": "https://docs.aboard.exchange/",
+      "github": "https://github.com/Aboard-Exchange"
+    },
+    {
+      "name": "AIKON",
+      "slug": "aikon",
+      "date": "2017-07-14",
+      "highlight": "AIKON's ORE ID is a multi-chain Web3 auth and wallet creation solution that supports familiar social logins, SMS and email.",
+      "logo": "/img/aikon.svg",
+      "tags": [
+        "wallet",
+        "multi-chain",
+        "tools",
+        "enterprise"
+      ],
+      "status": "live",
+      "website": "https://developer.oreid.io/",
+      "twitter": "https://twitter.com/TeamAIKON",
+      "summary": "AIKON’s ORE ID is a multi-chain Web3 auth and wallet creation solution that is compatible with Avalanche. ORE ID enables developers to provide dApp users with a simple auth and transaction signing experience using familiar logins like GMail, Facebook, SMS and more. ORE ID supports all NFT smart contracts allowing users to mint, transfer, sell and buy NFTs. AIKON is also launching ORE Vault, a B2B cryptocurrency and NFT wallet with multi-signature features. Blizzard Fund, managed by Avalanche, is AIKON’s lead Series A investor.",
+      "telegram": "https://t.me/orecommunity",
+      "discord": "https://discord.ore.network",
+      "docs": "https://docs.oreid.io/ore-id/",
+      "github": "https://github.com/TeamAikon/oreid",
+      "token": "$ORE",
+      "cmc": "https://coinmarketcap.com/currencies/ore-network/"
     },
     {
       "name": "Aleph.Im",
@@ -161,6 +224,28 @@
       "token": ""
     },
     {
+      "name": "Arcade Galaxy",
+      "slug": "arcadegalaxy",
+      "tags": [
+        "gaming",
+        "arcade",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Social game where users can host and visit eachother's created world with their customizable charachters",
+      "logo": "/img/arcadegalaxy.png",
+      "website": "https://www.arcadegalaxy.space/",
+      "twitter": "https://twitter.com/arcadegalaxy_?s=21",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/arcadegalaxy",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RCADE, $LFG"
+    },
+    {
       "name": "Arrow DFMs",
       "slug": "arrow-dfms",
       "tags": [
@@ -177,6 +262,74 @@
       "summary": "",
       "docs": "",
       "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Arweave",
+      "slug": "arweave",
+      "date": "2021-01-01",
+      "highlight": "With the Arweave-Avalanche integration, you can now pay for Arweave storage in AVAX.",
+      "logo": "/img/arweave.svg",
+      "tags": [
+        "bridge",
+        "multi-chain",
+        "nft",
+        "art"
+      ],
+      "status": "live",
+      "website": "https://arweave.org/",
+      "twitter": "https://twitter.com/arweaveteam",
+      "summary": "Arweave storage is now natively available on Avalanche. Users can now pay for permanent storage using Avalanche wallets and AVAX tokens. This opens a new design space for building truly decentralized applications on Avalanche, where everything from the UI to the smart contracts to the database is decentralized. Happy building!",
+      "telegram": "https://t.me/arweave",
+      "discord": "https://discord.gg/bWPEgSAc",
+      "docs": "https://www.arweave.org/build",
+      "github": "https://github.com/ArweaveTeam/arweave",
+      "token": "AR",
+      "cmc": "https://coinmarketcap.com/currencies/arweave/"
+    },
+    {
+      "name": "Ascenders",
+      "slug": "ascenders",
+      "date": "2021-10-01",
+      "highlight": "Ascenders is the first Triple A open world Action RPG with a fully decentralized, player driven economy deployed on Avalanche.",
+      "logo": "/img/ascenders.png",
+      "tags": [
+        "ava-labs",
+        "gaming",
+        "play-to-earn"
+      ],
+      "status": "coming soon",
+      "website": "https://www.ascenders.gg/",
+      "twitter": "https://twitter.com/PlayAscenders",
+      "summary": "Ascenders is an original multiplayer open-world Action RPG that brings forward influences from Zelda: Breath of the Wild and Eve Online, forging them into a fresh and stunning immersive experience and catapults them into the dynamic crypto gaming scene. The result is a new multi-platform science-fantasy world filled with danger, adventure, and exotic horizons - all to be explored and mastered. Ascenders will feature a revolutionary game economy that reimagines what a multiplayer RPG would look like if fully decentralized, and built entirely around DeFi concepts. Players would be able to trade resources in a global marketplace, creating a user-driven, self-sustaining economy.",
+      "telegram": "",
+      "discord": "http://discord.gg/ascenders",
+      "docs": "",
+      "github": "",
+      "token": "AGC",
+      "cmc": ""
+    },
+    {
+      "name": "Atlantis Loans",
+      "slug": "atlantis-loans",
+      "tags": [
+        "defi",
+        "lending",
+        "dapp",
+        "governance"
+      ],
+      "status": "",
+      "highlight": "Open source and non-custodial cross-chain liquidity protocol for earning interest on deposits and borrowing assets.",
+      "logo": "/img/atlantis-loans.svg",
+      "website": "https://atlantis.loans/",
+      "twitter": "https://twitter.com/atlantis_loans",
+      "telegram": "https://t.me/AtlantisLoans",
+      "github": "https://github.com/atlantis-loans",
+      "discord": "https://discord.gg/YZJtpRw4ty",
+      "summary": "",
+      "docs": "",
+      "cmc": "https://coinmarketcap.com/currencies/atlantis-loans/",
       "date": "",
       "token": ""
     },
@@ -200,6 +353,28 @@
       "github": "",
       "token": "",
       "cmc": ""
+    },
+    {
+      "name": "Atlas DEX",
+      "slug": "atlas-dex",
+      "date": "2021-09-01",
+      "highlight": "Atlas DEX provides a seamless trading experience for anyone looking to make native cross-chain swaps across leading blockchains.",
+      "logo": "/img/atlas-dex.svg",
+      "tags": [
+        "bridge",
+        "defi",
+        "dex",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://app.atlasdex.finance/",
+      "twitter": "https://twitter.com/atlas_dex",
+      "summary": "Atlas DEX is a cross-chain liquidity aggregator. Users can seamlessly swap over 1,500 native tokens to and from Avalanche, Solana, Ethereum, BNB Chain, Polygon and Fantom. The platform splits trades across different liquidity pools to access the best price and minimize slippage. The platform will further integrate leading blockchains and develop new products. Atlas DEX is building to improve cross-chain interoperability, making it a go-to platform for DeFi users.",
+      "telegram": "https://t.me/atlasdex_official",
+      "discord": "https://discord.gg/atlasdex",
+      "docs": "https://docs.atlasdex.finance/",
+      "github": "https://github.com/atlasdex",
+      "cmc": "https://coinmarketcap.com/currencies/atlas-dex/"
     },
     {
       "name": "Avado",
@@ -264,6 +439,28 @@
       "token": ""
     },
     {
+      "name": "AvalancheGo",
+      "slug": "avalanchego",
+      "tags": [
+        "security",
+        "sdk",
+        "tools"
+      ],
+      "status": "Live",
+      "highlight": "Go implementation of an Avalanche node.",
+      "logo": "/img/avalanchego.svg",
+      "website": "https://github.com/ava-labs/avalanchego",
+      "twitter": "",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Avalaunch",
       "slug": "avalaunch",
       "tags": [
@@ -283,6 +480,29 @@
       "docs": "",
       "cmc": "",
       "date": "",
+      "token": ""
+    },
+    {
+      "name": "Avalytics",
+      "slug": "Avalytics",
+      "tags": [
+        "nft",
+        "tools",
+        "art",
+        "dashboard"
+      ],
+      "status": "live",
+      "highlight": "Providing free Avalanche NFT analytics.",
+      "logo": "/img/avalytics.png",
+      "website": "https://www.avalytics.xyz/",
+      "twitter": "https://twitter.com/avalyticsXYZ",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "Providing free Avalanche NFT analytics.",
+      "docs": "",
+      "cmc": "",
+      "date": "2022-06-06",
       "token": ""
     },
     {
@@ -321,6 +541,29 @@
       "telegram": "https://t.me/avavaware",
       "github": "",
       "discord": "https://discord.com/invite/B8RTbe4yur",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "AVAX NFT Stats",
+      "slug": "avax-nft-stats",
+      "tags": [
+        "explorer",
+        "nft",
+        "infrastructure",
+        "stats"
+      ],
+      "status": "Live",
+      "highlight": "Native NFT marketplace.",
+      "logo": "/img/avax-nft-stats.svg",
+      "website": "https://avaxnftstats.com/",
+      "twitter": "https://twitter.com/AvaxNftStats",
+      "telegram": "",
+      "github": "",
+      "discord": "",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -371,22 +614,23 @@
     {
       "name": "Axelar",
       "slug": "axelar",
+      "date": "2022-09-27",
+      "highlight": "A cross-chain communication network that connects Avalanche with other leading platforms",
+      "logo": "/img/axelar.png",
       "tags": [
-        "tools"
+        "bridge",
+        "multi-chain"
       ],
-      "status": "",
-      "highlight": "A cross-chain communication network that connects Avalanche with other leading platforms.",
-      "logo": "/img/axelar.svg",
+      "status": "live",
       "website": "https://axelar.network/",
       "twitter": "https://twitter.com/axelarcore",
+      "summary": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
       "telegram": "https://t.me/axelarcommunity",
-      "github": "",
       "discord": "https://discord.com/invite/aRZ3Ra6f7D",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
+      "docs": "https://docs.axelar.dev",
+      "github": "https://github.com/axelarnetwork",
+      "token": "AXL",
+      "cmc": "https://coinmarketcap.com/currencies/axelar/"
     },
     {
       "name": "Baguette",
@@ -422,6 +666,27 @@
       "telegram": "",
       "github": "",
       "discord": "https://discord.com/invite/FfEhsVk",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Battle for Giostone",
+      "slug": "battleforgiostone",
+      "tags": [
+        "gaming",
+        "moba"
+      ],
+      "status": "In development",
+      "highlight": "Battle For Giostone is the first authentic P2E MOBA game developed by M-Tech entertainment.",
+      "logo": "/img/battleforgiostone.png",
+      "website": "https://battleforgiostone.com/",
+      "twitter": "https://twitter.com/BFGiostone",
+      "telegram": "",
+      "github": "",
+      "discord": "https://t.co/oqqSdXp2rV",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -551,6 +816,26 @@
       "token": ""
     },
     {
+      "name": "BitKeep Wallet",
+      "slug": "bitkeepwallet",
+      "tags": [
+        "wallet"
+      ],
+      "status": "",
+      "highlight": "BitKeep Wallet is an digital currency wallet and can send and receive SOL/SPL tokens.",
+      "logo": "/img/bitkeep.svg",
+      "website": "https://bitkeep.org/",
+      "twitter": "https://twitter.com/BitKeepOS",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "BitMart",
       "slug": "bitmart",
       "tags": [
@@ -671,6 +956,48 @@
       "token": ""
     },
     {
+      "name": "BlockVision",
+      "slug": "BlockVision",
+      "date": "2022-05-30",
+      "highlight": "BlockVision is a one-stop development platform and on-chain data retrieval portal for developers",
+      "logo": "/img/blockvision.svg",
+      "tags": [
+        "api",
+        "infrastructure",
+        "nodes",
+        "tools"
+      ],
+      "status": "live",
+      "website": "https://blockvision.org/",
+      "twitter": "https://twitter.com/blockvisionhq",
+      "summary": "BlockVision is a one-stop development platform and on-chain data retrieval portal for developers that boasts impressively low-latencies and high availability due to it's distributed multi-node architecture. With our powerful HTAP engine and Data Cloud, BlockVision is able to provide a suite of enhanced FT & NFT APIs, development toolkits, high-performance node services and smart alerts to make your web 3.0 experience better and smoother.",
+      "telegram": "https://t.me/blockvision",
+      "discord": "https://discord.com/invite/Re6prK86Tr",
+      "docs": "https://docs.blockvision.org/blockvision/chain-apis/avalanche-api"
+    },
+    {
+      "name": "Bloodloop",
+      "slug": "bloodloop",
+      "tags": [
+        "gaming",
+        "fps",
+        "mmorpg"
+      ],
+      "status": "",
+      "highlight": "BloodLoop is an MMO-FPS game, with a decentralized economy, inspired by the mechanics of the world's leading competitive video games.",
+      "logo": "/img/bloodloop.png",
+      "website": "https://www.bloodloop.org/",
+      "twitter": "https://twitter.com/BloodLoopGAME",
+      "telegram": "https://t.me/BloodLoopEngOfficial",
+      "github": "",
+      "discord": "https://discord.gg/8P9fQ8qtgp",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Bloq",
       "slug": "bloq",
       "tags": [
@@ -709,6 +1036,21 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Bridge Wallet",
+      "slug": "bridge-wallet",
+      "date": "2020-01-01",
+      "highlight": "The ultimate mobile wallet for Avalanche",
+      "logo": "/img/bridge-wallet.svg",
+      "tags": [
+        "wallet"
+      ],
+      "status": "live",
+      "website": "https://www.mtpelerin.com/bridge-wallet/avalanche-wallet",
+      "twitter": "https://twitter.com/mtpelerin",
+      "summary": "Bridge Wallet is the ultimate self-custodial mobile app to explore and manage Avalanche assets on your phone. Buy AVAX and USDC directly on Avalanche C-Chain, exchange tokens on ParaSwap and withdraw funds in 20+ currencies back on your bank account in 171 countries.",
+      "telegram": "https://t.me/mtpelerinchat"
     },
     {
       "name": "BtcTurk",
@@ -771,6 +1113,29 @@
       "token": ""
     },
     {
+      "name": "Campfire",
+      "slug": "campfire",
+      "tags": [
+        "art",
+        "culture",
+        "nft",
+        "marketplace"
+      ],
+      "status": "Live",
+      "highlight": "Native NFT marketplace.",
+      "logo": "/img/campfire.svg",
+      "website": "https://campfire.exchange/",
+      "twitter": "https://twitter.com/0xCampfire",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Canary Exchange",
       "slug": "canary-exchange",
       "tags": [
@@ -814,19 +1179,107 @@
       "token": ""
     },
     {
-      "name": "Celer Network",
+      "name": "Cask Protocol",
+      "slug": "cask-protocol",
+      "date": "2022-08-03",
+      "highlight": "Cask is a decentralized non-custodial protocol for managing recurring money flows in web3.",
+      "logo": "/img/cask.svg",
+      "tags": [
+        "dapp",
+        "dao",
+        "utility",
+        "payments"
+      ],
+      "status": "live",
+      "website": "https://www.cask.fi",
+      "twitter": "https://www.twitter.com/caskprotocol",
+      "summary": "Cask is a decentralized non-custodial protocol for managing recurring money flows in web3. The Cask mission is to onboard web2 payment agreements into non-custodial alternatives in addition to providing web3 with sustainable business models. Cask is also building ways to automatically interact with various web3/defi protocols. The Cask wallet acts as a combined checking and savings account. Funds are transferred into a yield-bearing account and then those funds are usable in automatic money flows.",
+      "telegram": "https://t.me/caskprotocol",
+      "discord": "https://www.cask.fi/discord",
+      "docs": "https://docs.cask.fi/",
+      "github": "https://github.com/CaskProtocol/"
+    },
+    {
+      "name": "Castle Crush",
+      "slug": "castlecrush",
+      "tags": [
+        "gaming",
+        "card game",
+        "rts"
+      ],
+      "status": "In development",
+      "highlight": "Building the laregest real-time multiplayer strategy game on the blockchain. Own your cards. Build your deck. Battle over one million payers worldwide and compete in leagues to win incredible prizes!",
+      "logo": "/img/castlecrush.png",
+      "website": "https://www.castlecrushgame.com/",
+      "twitter": "https://twitter.com/playcastlecrush",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/castlecrush",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Celer cBridge",
       "slug": "cbridge",
       "tags": [
-        "infrastructure"
+        "infrastructure",
+        "bridge",
+        "multi-chain"
       ],
-      "status": "",
-      "highlight": "Bridging Ethereum sidechains such as Polygon, Arbitrum, Optimism and BSC.",
+      "status": "live",
+      "highlight": "Fast, secure and low-fee asset bridge that supports 130+ tokens across 30+ blockchains",
       "logo": "/img/cbridge.png",
       "website": "https://cbridge.celer.network/#/transfer",
       "twitter": "https://twitter.com/CelerNetwork",
       "telegram": "https://t.me/celernetwork",
       "github": "https://github.com/celer-network",
       "discord": "https://discord.com/invite/uGx4fjQ",
+      "summary": "Celer cBridge is a decentralized and non-custodial asset bridge that supports more than 130 different tokens across 30+ different blockchains and layer-2 rollups. Built with the Celer Inter-chain Messaging Framework, cBridge has processed more than $9b cross-chain transfer volume for more than 192K unique users.",
+      "docs": "https://cbridge-docs.celer.network/reference/faq",
+      "cmc": "",
+      "date": "",
+      "token": "CELR"
+    },
+    {
+      "name": "Celer Network",
+      "slug": "celer",
+      "tags": [
+        "infrastructure",
+        "bridge",
+        "multi-chain"
+      ],
+      "status": "live",
+      "highlight": "A blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains.",
+      "logo": "/img/celer.svg",
+      "website": "https://www.celer.network/",
+      "twitter": "https://twitter.com/CelerNetwork",
+      "telegram": "https://t.me/celernetwork",
+      "github": "https://github.com/celer-network",
+      "discord": "https://discord.com/invite/uGx4fjQ",
+      "summary": "Celer is a blockchain interoperability protocol enabling a one-click user experience accessing tokens, DeFi, GameFi, NFTs, governance, privacy solutions and more across multiple chains. Developers can build inter-chain-native dApps using the Celer Inter-chain Messaging SDK to gain access to efficient liquidity utilization, coherent application logic, and shared states. Users of Celer-enabled dApps will enjoy the benefits of a diverse multi-blockchain ecosystem with the simplicity of a single-transaction UX, all from a single chain.",
+      "docs": "https://im-docs.celer.network/developer/celer-im-overview",
+      "cmc": "https://coinmarketcap.com/currencies/celer-network/",
+      "date": "",
+      "token": "CELR"
+    },
+    {
+      "name": "Centrifuge",
+      "slug": "centrifuge",
+      "tags": [
+        "defi",
+        "lending"
+      ],
+      "status": "Live",
+      "highlight": "Regulatory compliant lending pools for RWAs.",
+      "logo": "/img/centrifuge.svg",
+      "website": "https://centrifuge.io/",
+      "twitter": "https://twitter.com/centrifuge",
+      "telegram": "",
+      "github": "",
+      "discord": "",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -851,6 +1304,29 @@
       "docs": "",
       "cmc": "",
       "date": "",
+      "token": ""
+    },
+    {
+      "name": "Chainbase",
+      "slug": "Chainbase",
+      "tags": [
+        "tools",
+        "nodes",
+        "api",
+        "infrastructure"
+      ],
+      "status": "live",
+      "highlight": "Chainbase is a leading Web3 blockchain interaction layer infrastructure to provide cloud-based API services for developer",
+      "logo": "/img/chainbase.svg",
+      "website": "https://chainbase.online/",
+      "twitter": "https://twitter.com/ChainbaseOnline",
+      "telegram": "",
+      "github": "https://github.com/chainbase-labs",
+      "discord": "https://discord.gg/DUWMmtprz4",
+      "summary": "Chainbase is providing a toolkit for devs (esp Web3 back-end devs) to easily build apps on blockchain networks.Solving the key issue: interactions (querying/indexing/etc.) with on-chain/multi-chain data",
+      "docs": "https://docs.chainbase.online/",
+      "cmc": "",
+      "date": "2022-02-01",
       "token": ""
     },
     {
@@ -939,6 +1415,27 @@
       "cmc": ""
     },
     {
+      "name": "CIAN",
+      "slug": "CIAN",
+      "date": "2022-04-02",
+      "highlight": "Open Automation Platform for WEB 3.",
+      "logo": "/img/cian.svg",
+      "tags": [
+        "defi",
+        "portfolio"
+      ],
+      "status": "live",
+      "website": "https://cian.app/",
+      "twitter": "https://twitter.com/CIAN_protocol",
+      "summary": "An open automation platform for web 3, providing automated tools and automated strategies for DeFi.",
+      "telegram": "",
+      "discord": "https://discord.com/invite/cian",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "Coin98 Wallet",
       "slug": "coin98-wallet",
       "tags": [
@@ -999,6 +1496,27 @@
       "token": ""
     },
     {
+      "name": "Colony",
+      "slug": "colony",
+      "date": "2022-03-16",
+      "highlight": "Community-driven Avalanche ecosystem accelerator.",
+      "logo": "/img/colony.svg",
+      "tags": [
+        "accelerator",
+        "dao",
+        "ecosystem",
+        "funds"
+      ],
+      "status": "live",
+      "website": "https://www.colonylab.io/",
+      "twitter": "https://twitter.com/Colonylab",
+      "summary": "Colony is a Community-driven Avalanche ecosystem accelerator, powered by Colony’s CLY token. In simple terms, Colony: Provides early-stage funding to Avalanche built projects, Provides Liquidity to existing Avalanche DeFi protocols ,Purchases and stakes Avalanche (AVAX) and upcoming subnets tokens, Purchases selected Avalanche projects to form an Index. CLY token holders receive: Full governance — determine the distribution and allocation of funds, Avalanche staking rewards, Liquidity provider rewards ,Tokens via airdrop of early-stage Colony funded projects",
+      "telegram": "https://t.me/colonyavax",
+      "github": "https://github.com/ColonyLab/ColonyAppV1",
+      "token": "CLY",
+      "cmc": "https://coinmarketcap.com/currencies/colony/"
+    },
+    {
       "name": "Complus Network",
       "slug": "complus-network",
       "tags": [
@@ -1039,6 +1557,29 @@
       "token": ""
     },
     {
+      "name": "Copper Platform",
+      "slug": "copper-platform",
+      "tags": [
+        "defi",
+        "launchpad",
+        "infrastructure",
+        "multichain"
+      ],
+      "status": "live",
+      "highlight": "A platform for open, transparent, and user-friendly participation in Liquidity Bootstrapping Pools.",
+      "logo": "/img/copper-platform.png",
+      "website": "https://copperlaunch.com/",
+      "twitter": "https://twitter.com/copperplatform",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.alchemist.wtf",
+      "summary": "Copper is an open, transparent, and user-friendly platform for interacting with Liquidity Bootstrapping Pools (LBP), an innovative method that allows the market to determine the fair price of a token. Copper's key features enable price discovery, permissionless participation, fair distribution, capital efficiency, while also preventing sniper bots or whales from dominating an LBP. No gas wars, no whitelists, no allocation games.",
+      "docs": "https://docs.alchemist.wtf/copper",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Copper",
       "slug": "copper",
       "tags": [
@@ -1058,6 +1599,72 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Core extension",
+      "slug": "coreextension",
+      "tags": [
+        "wallet",
+        "nft",
+        "ava labs"
+      ],
+      "status": "live",
+      "highlight": "A free, non-custodial browser extension engineered for Avalanche users. Core brings Avalanche dApps, NFTs, bridges, Subnets, and more — directly to you.",
+      "logo": "/img/core.png",
+      "website": "https://chrome.google.com/webstore/detail/core/agoakfejjabomempkjlepdflaleeobhb ",
+      "twitter": "https://twitter.com/coreapp",
+      "telegram": "",
+      "github": "https://github.com/ava-labs",
+      "discord": "https://discord.com/invite/RwXY7P6",
+      "summary": "A free, all-in-one command center giving users a more intuitive and comprehensive way to use Web3 across the Avalanche network, Avalanche Subnets, and Ethereum. Core browser extension is optimized for use with Core web, a free, non-custodial wallet. Together they are key components of the Core product suite that brings dApps, NFTs, Avalanche Bridge, Subnets, L2s, and more, directly to Web3 users. Veterans and those new to Web3 know one of the biggest obstacles to using Web3 is complexity. Core abstracts away the usual difficulties and pitfalls of user experience, enabling users to focus on what to do on-chain rather than how to do it. In fact, Core web and Core extension's interconnected experience gives users flexibility and freedom during their Web3 journey.",
+      "docs": "",
+      "cmc": "",
+      "data": "",
+      "token": ""
+    },
+    {
+      "name": "Core web",
+      "slug": "coreweb",
+      "tags": [
+        "dapp",
+        "portfolio",
+        "ava labs"
+      ],
+      "status": "live",
+      "highlight": "View portfolio dashboards, transact on chain, and unlock the growing number of use cases and integrations with Web3 tools. Built to support all wallets, with custom features when used with the Core Extension.",
+      "logo": "/img/core.png",
+      "website": "https://core.app/",
+      "twitter": "https://twitter.com/coreapp",
+      "telegram": "",
+      "github": "https://github.com/ava-labs",
+      "discord": "https://discord.com/invite/RwXY7P6",
+      "summary": " A free, all-in-one command center giving users a more intuitive and comprehensive way to use Web3 across the Avalanche network, Avalanche Subnets, and Ethereum. Core web is optimized for use with Core browser extension, a free, non-custodial wallet. Together they are key components of the Core product suite that brings dApps, NFTs, Avalanche Bridge, Subnets, L2s, and more, directly to Web3 users. Veterans and those new to Web3 know one of the biggest obstacles to using Web3 is complexity. Core abstracts away the usual difficulties and pitfalls of user experience, enabling users to focus on what to do on-chain rather than how to do it. In fact, Core web and Core extension's interconnected experience gives users flexibility and freedom during their Web3 journey.",
+      "docs": "",
+      "cmc": "",
+      "data": "",
+      "token": ""
+    },
+    {
+      "name": "Cosmic Universe",
+      "slug": "cosmic-universe",
+      "tags": [
+        "gaming",
+        "nft",
+        "mmorpg"
+      ],
+      "status": "coming soon",
+      "highlight": "Cosmic Universe is a fantasy blockchain metaverse world-builder and MMORPG built using UE5 with tradable NFTs on the Avalanche blockchain.",
+      "logo": "/img/cosmic-universe.png",
+      "website": "https://cosmicuniverse.io/",
+      "twitter": "https://twitter.com/thecosmicguild",
+      "telegram": "https://t.me/cosmicuniversegame",
+      "github": "https://github.com/thecosmicuniverse",
+      "discord": "https://discord.gg/cosmic-universe",
+      "summary": "Cosmic Universe is an immersive open-world fantasy metaverse world-builder MMORPG where players explore, gather, harvest, develop increasingly-advanced plots and settlements, trade, level-up for magical powers & in-game rewards, and engage in PVP competitions & events. Cosmic Universe gives players full tokenized ownership of their characters & land, and leverages the benefits of blockchain technology into its ecosystem. Integrating exclusive character & land NFT collections, Cosmic Universe focuses heavily on buying & developing land, harvesting & mining resources, acquiring skills & magic, forging alliances, and socializing, all while developing increasingly advanced plots & settlements. Players can earn in-game rewards through skilled gameplay & contributions to the ecosystem.",
+      "docs": "https://info.cosmicuniverse.io/",
+      "cmc": "https://www.coingecko.com/en/coins/cosmic-universe-magic-token",
+      "date": "2021-06-20",
+      "token": "MAGIC"
     },
     {
       "name": "Covalent",
@@ -1083,21 +1690,45 @@
       "name": "Crabada",
       "slug": "crabada",
       "tags": [
-        "gaming"
+        "auto-battler",
+        "gaming",
+        "NFT"
       ],
-      "status": "",
-      "highlight": "A Fully Decentralized Play-and-Earn Idle Game on Avalanche",
+      "status": "live",
+      "highlight": "Discover An Exciting Undersea Adventure!",
       "logo": "/img/crabada.png",
       "website": "https://www.crabada.com/",
       "twitter": "https://twitter.com/playcrabada?s=11",
       "telegram": "https://t.me/playcrabada",
       "github": "",
-      "discord": "https://discord.gg/Djy57Zhau9",
-      "summary": "",
-      "docs": "",
+      "discord": "https://discord.gg/PlayCrabada",
+      "summary": "Crabada is an idle game available on most native platforms. Earn in-game rewards in exciting, Battle gameplay as you send your Crabada NFTs to Battle for riches and glory!",
+      "docs": "https://docs.crabada.com/",
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "CryptoMKT",
+      "slug": "cryptomkt",
+      "date": "2016-01-01",
+      "highlight": "The best platform to buy cryptocurrencies in Latin America",
+      "logo": "/img/cryptomkt.png",
+      "tags": [
+        "exchange",
+        "security",
+        "wallet"
+      ],
+      "status": "live",
+      "website": "https://www.cryptomkt.com/",
+      "twitter": "https://twitter.com/CryptoMKT",
+      "summary": "",
+      "telegram": "https://t.me/CryptoMKT_Latam",
+      "discord": "",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
     },
     {
       "name": "CryptoRefills",
@@ -1162,6 +1793,38 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "CurateDAO",
+      "slug": "curatedao",
+      "tags": [
+        "art",
+        "avalanche native",
+        "culture",
+        "dao",
+        "dapp",
+        "government",
+        "marketplace",
+        "multi-chain",
+        "news",
+        "nft",
+        "oracle",
+        "play-to-earn",
+        "sdk"
+      ],
+      "status": "live",
+      "website": "https://www.curatedao.xyz/",
+      "twitter": "https://twitter.com/kuratedao",
+      "summary": "CurateDAO is the first blockchain based database with a shared ownership model. When a database generates revenue, the revenue is split by the people that contributed to the database. Curate data, earn crypto.",
+      "telegram": "",
+      "discord": "http://discord.gg/eW8UwQQgvQ",
+      "docs": "https://docs.curatedao.xyz/",
+      "github": "https://github.com/curateDAO/",
+      "date": "2022-06-20",
+      "highlight": "Curate data, earn crypto.",
+      "logo": "/img/curatedao.svg",
+      "token": "",
+      "cmc": ""
     },
     {
       "name": "Curve",
@@ -1254,7 +1917,7 @@
       "status": "",
       "highlight": "A DeFi wallet for managaging and tracking your DeFi portfolio.",
       "logo": "/img/debank.png",
-      "website": "https://dctdao.org/",
+      "website": "https://debank.com/",
       "twitter": "https://twitter.com/DebankDeFi",
       "telegram": "https://t.me/DeBankEN",
       "github": "https://github.com/DeBankDeFi",
@@ -1306,6 +1969,93 @@
       "token": ""
     },
     {
+      "name": "Defiant",
+      "slug": "defiant",
+      "date": "2020-06-15",
+      "highlight": "A self-custodial multiblockchain mobile wallet. Your gateway to a decentralized world.",
+      "logo": "/img/defiant.png",
+      "tags": [
+        "wallet",
+        "custody",
+        "defi"
+      ],
+      "status": "live",
+      "website": "https://defiantapp.tech",
+      "twitter": "https://twitter.com/defiantApp",
+      "summary": "Defiant is a self-custodial multiblockchain mobile wallet that focuses on enabling users to access the Defi world with the most easy and rich UX they can get but without loosing the custody of their funds.",
+      "telegram": "https://t.me/DefiantES",
+      "discord": "https://discord.gg/F4meNYF9yy",
+      "docs": "",
+      "github": "https://github.com/AndinaDeFi/",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "DeFi Kingdoms",
+      "slug": "defikingdoms",
+      "tags": [
+        "gaming",
+        "dex",
+        "nft",
+        "play-to-earn"
+      ],
+      "status": "live",
+      "highlight": "A cross-chain fasntasy RPG game with beautiful pixel art, tokenized resources, and Hero NFTs integrated with DeFi protocols.",
+      "logo": "/img/defikingdoms.png",
+      "website": "https://defikingdoms.com/",
+      "twitter": "https://twitter.com/DefiKingdoms",
+      "telegram": "https://t.me/defikingdoms",
+      "github": "https://github.com/DefiKingdoms",
+      "discord": "https://discord.gg/defikingdoms",
+      "summary": "",
+      "docs": "https://docs.defikingdoms.com/",
+      "cmc": "https://coinmarketcap.com/currencies/defi-kingdoms/",
+      "date": "2021-08-23",
+      "token": "$JEWEL"
+    },
+    {
+      "name": "Defimons",
+      "slug": "defimons",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Capture monsters, buy outfits, and design your own apartments, as you explore the beautiful world of Defimons",
+      "logo": "/img/defimons.jpg",
+      "website": "https://beta.defimons.com/",
+      "twitter": "https://twitter.com/TheDeFimons",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/defimons",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Degis",
+      "slug": "Degis",
+      "date": "2022-04-01",
+      "highlight": "Degis is the next generation all in one protection protocol, first on Avalanche",
+      "logo": "img/degis.svg",
+      "tags": [
+        "defi",
+        "digital security"
+      ],
+      "status": "live",
+      "website": "https://degis.io",
+      "twitter": "https://twitter.com/ProjectDegis",
+      "summary": "Degis is the next-generation all-in-one protection protocol, the first on Avalanche. Degis will offer exhaustive protection to users and traders, offer a decentralized protection market and ultimately bring scalable risk management to the crypto world. Starting from token price protection, Degis will build smart contract protection, impermenant loss protection and finally build the protection meta market in the year of 2022",
+      "telegram": "https://t.me/ProjectDegis",
+      "discord": "https://discord.gg/UspHYsSG4c",
+      "docs": "https://docs.degis.io/about-degis/master",
+      "github": "https://github.com/Degis-Insurance",
+      "token": "DEG",
+      "cmc": "https://coinmarketcap.com/currencies/degis/"
+    },
+    {
       "name": "Deloitte",
       "slug": "deloitte",
       "tags": [
@@ -1326,6 +2076,27 @@
       "token": ""
     },
     {
+      "name": "DeltaPrime",
+      "slug": "deltaprime",
+      "date": "",
+      "highlight": "DeltaPrime brings the best of Avalanche together in one ecosystem, and provides its users with extra capital so they can multiply their returns.",
+      "logo": "/img/deltaprime.png",
+      "tags": [
+        "ecosystem",
+        "defi",
+        "lending",
+        "yield farming"
+      ],
+      "status": "coming soon",
+      "website": "http://deltaprime.io/",
+      "twitter": "https://twitter.com/DeltaPrimeDefi",
+      "summary": "DeltaPrime aggregates the best of Avalanche in one DeFi ecosystem. Within this ecosystem, investors get access to extra capital, which can be borrowed and used in a completely trustless fashion. This way, they can multiply their returns, while keeping full control over the risk-reward ratio of their DeFi portfolio. The minimum collateral ratio is 20%, and borrowed funds are protected by the Dedicated Smart Contract, which protects and liquidates part of the borrowed funds if necessary.",
+      "telegram": "",
+      "discord": "https://discord.com/invite/9bwsnsHEzD",
+      "docs": "https://docs.deltaprime.io",
+      "github": "https://github.com/DeltaPrimeLabs/deltaprime-primeloans"
+    },
+    {
       "name": "DEX Guru",
       "slug": "dex-guru",
       "tags": [
@@ -1339,6 +2110,73 @@
       "telegram": "",
       "github": "",
       "discord": "https://discord.gg/dPW8fzwzz9",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Dexalot",
+      "slug": "dexalot",
+      "date": "2021-12-06",
+      "highlight": "Dexalot is a central limit order book exchange aiming at bringing the traditional centralized exchange user experience without compromising on decentralization and transparency.",
+      "logo": "/img/dexalot.png",
+      "tags": [
+        "avalanche native",
+        "dex",
+        "trading",
+        "defi"
+      ],
+      "status": "live",
+      "website": "https://dexalot.com",
+      "twitter": "https://twitter.com/dexalotcom",
+      "summary": "As the first decentralized exchange on Avalanche with a central limit order book, Dexalot offers users a non-custodial and transparent decentralized trading environment while rivaling the look and feel of centralized exchanges. Initially building on the Avalanche C-chain, Dexalot also has 100% compatibility with the mature Ethereum Virtual Machine technolgy as an Avalanche Subnet. With a low cost of deployment and operation, Dexalot boasts transaction speeds with 1-2 second finality, plus transactional throughput that can process thousands of transactions per second. With Dexalot, you truly own your trade.",
+      "telegram": "https://t.me/dexalot",
+      "discord": "https://discord.gg/dexalot",
+      "docs": "https://docs.dexalot-test.com ",
+      "github": "https://github.com/Dexalot",
+      "token": "ALOT",
+      "cmc": "https://coinmarketcap.com/currencies/dexalot/"
+    },
+    {
+      "name": "DFK Chain Subnet",
+      "slug": "dfksubnet",
+      "tags": [
+        "infrastructure",
+        "ecosystem",
+        "gaming",
+        "nft"
+      ],
+      "status": "live",
+      "highlight": "The go-to location for community members and projects to launch GameFi and other blockchain gaming experiences in conjunction with the primary offering of DeFi Kingdoms: Crystalvale.",
+      "logo": "/img/dfksubnet.png",
+      "website": "https://defikingdoms.com/crystalvale/",
+      "twitter": "https://twitter.com/DefiKingdoms",
+      "telegram": "https://t.me/defikingdoms",
+      "github": "https://github.com/DefiKingdoms",
+      "discord": "https://discord.gg/defikingdoms",
+      "summary": "",
+      "docs": "https://docs.defikingdoms.com/",
+      "cmc": "https://coinmarketcap.com/currencies/defi-kingdoms/",
+      "date": "2022-03-31",
+      "token": "$JEWEL"
+    },
+    {
+      "name": "Dogeon",
+      "slug": "dogeon",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "",
+      "highlight": "Dogeon is a Gaming NFT project on Avalanche. It's our first DOG RACE Play-to-Earn game, which makes it all worth while!",
+      "logo": "/img/dogeon.png",
+      "website": "https://nft.dogeon.io/",
+      "twitter": "https://twitter.com/Dogeon_Official",
+      "telegram": "https://t.me/DogeonAnn",
+      "github": "",
+      "discord": "",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -1365,6 +2203,28 @@
       "docs": "https://domionline.io/Whitepaper_DomiOnline.pdf",
       "token": "DOMI",
       "cmc": "https://coinmarketcap.com/currencies/domi-online/"
+    },
+    {
+      "name": "Dragon Crypto Gaming",
+      "slug": "dragoncryptogaming",
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "idle"
+      ],
+      "status": "Live",
+      "highlight": "Full-Fledged Retro RPG on the Blockchain with multiple games includinga  text-based RPG and an idle breeding NFT game",
+      "logo": "/img/dragoncryptogaming.jpg",
+      "website": "https://dragoncrypto.io/tiny-dragons/",
+      "twitter": "https://twitter.com/DCGgamefi",
+      "telegram": "https://t.me/thedragonslairfarm",
+      "github": "",
+      "discord": "https://discord.gg/https://discord.gg/hjc7sVrxmc",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
     },
     {
       "name": "DSLA Protocol",
@@ -1448,6 +2308,29 @@
       "token": ""
     },
     {
+      "name": "EMDX",
+      "slug": "emdx",
+      "date": "2022-06-20",
+      "highlight": "Decentralized derivative exchange. Trade with low fees and up to 10x leverage.",
+      "logo": "/img/emdx.svg",
+      "tags": [
+        "defi",
+        "exchange",
+        "perpetual",
+        "spot"
+      ],
+      "status": "live",
+      "website": "https://app.emdx.io",
+      "twitter": "https://twitter.com/emdx_io",
+      "summary": "EMDX is a decentralized derivative protocol with an in-house spot market, expanding risk hedging tools for traditional assets into the DeFi environment and allowing token listing “on demand” with “liquidity as a service” from the start.",
+      "telegram": "https://t.me/emdx_es",
+      "discord": "https://discord.com/invite/RwXY7P6",
+      "docs": "https://docs.emdx.io",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "Encode Club",
       "slug": "encode-club",
       "tags": [
@@ -1461,6 +2344,27 @@
       "telegram": "",
       "github": "",
       "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Eternity",
+      "slug": "eternity",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Eternity is a fantasy-themed NFT Role-Playing Game featuring a beautifully crafted, living world that is constantly evolving.",
+      "logo": "/img/eternity.jpg",
+      "website": "https://playeternity.io/",
+      "twitter": "https://twitter.com/eternityrpg",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/EMN6C5NQZc",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -1483,6 +2387,27 @@
       "discord": "https://discord.gg/jEAprf45jj",
       "summary": "Block explorer that can connect to any chain, locals (Hardhat/Ganache) or remote. Also provide some tooling such as automatic UI generation for contracts, transaction tracing, balance changes between blocks, token transfers display, storage reading, account impersonification.",
       "docs": "https://doc.tryethernal.com",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Fableborn",
+      "slug": "fableborn",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Raid real players, defend your base and fight amongst heroes, while you embark on a journey to explore the Shatterlands.",
+      "logo": "/img/fableborn.png",
+      "website": "https://www.fableborne.com/",
+      "twitter": "https://www.fableborne.com/twitter",
+      "telegram": "https://www.fableborne.com/telegram",
+      "github": "",
+      "discord": "https://www.fableborne.com/discord",
+      "summary": "",
+      "docs": "",
       "cmc": "",
       "date": "",
       "token": ""
@@ -1550,6 +2475,27 @@
       "token": ""
     },
     {
+      "name": "Flight of Legends",
+      "slug": "flightoflegends",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "Live",
+      "highlight": "We are building an aeronautics metaverse and a fly to earn game on the Avalanche network. This metaverse will provide its users with a fun gaming experience based on the aeronautical world. ",
+      "logo": "/img/flightoflegends.png",
+      "website": "https://flightoflegends.com/",
+      "twitter": "https://twitter.com/FlightOfLegends",
+      "telegram": "https://t.me/FlightofLegends",
+      "github": "",
+      "discord": "https://t.co/1VJBaPy2oS",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Frax",
       "slug": "frax",
       "tags": [
@@ -1592,24 +2538,70 @@
       "token": ""
     },
     {
-      "name": "FTX",
-      "slug": "ftx",
+      "name": "Furucombo",
+      "slug": "furucombo",
+      "date": "2022-11-21",
+      "highlight": "Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.",
+      "logo": "/img/furucombo.svg",
       "tags": [
-        "exchange"
+        "dapp",
+        "defi",
+        "multi-chain",
+        "wealth management"
+      ],
+      "status": "live",
+      "website": "https://furucombo.app/",
+      "twitter": "https://twitter.com/furucombo",
+      "summary": "Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.",
+      "telegram": "https://t.me/furucombo",
+      "discord": "https://discord.com/invite/JuamDaq",
+      "docs": "https://docs.furucombo.app/",
+      "github": "https://github.com/dinngodev",
+      "token": "COMBO",
+      "cmc": "https://www.coingecko.com/en/coins/furucombo"
+    },
+    {
+      "name": "Futureswap",
+      "slug": "avalanche-futureswap-dex",
+      "date": "2022-04-26",
+      "highlight": "Futureswap, a decentralized, permissionless, AMM-based leveraged trading protocol offers trading on Avalanche through the Trader Joe AMM.",
+      "logo": "/img/FutureswapAvalancheLogo.png",
+      "tags": [
+        "trading",
+        "dex",
+        "defi",
+        "swap"
+      ],
+      "status": "coming soon",
+      "website": "https://www.futureswap.com",
+      "twitter": "https://twitter.com/futureswapx",
+      "summary": "Futureswap, the first decentralized, AMM-based trading protocol that aims to offer leverage on any AMM-backed pair, now expands the exchange’s presence with version 4.1 onto Avalanche using the Trader Joe AMM with the JOE-USDC pair, allowing traders to earn $FST and $AVAX rewards simultaneously. Starting with $JOE, Futureswap is working to onboard new pairs from the Avalanche network, while staying composable and permissionless.",
+      "discord": "https://discord.gg/futureswap",
+      "docs": "https://docs.futureswap.com",
+      "github": "https://github.com/futureswap",
+      "token": "FST",
+      "cmc": "https://coinmarketcap.com/currencies/futureswap/"
+    },
+    {
+      "name": "GameStar+",
+      "slug": "gamestar",
+      "tags": [
+        "gaming",
+        "casual"
       ],
       "status": "",
-      "highlight": "A leading cryptocurrency derivatives exchange built by traders, for traders.",
-      "logo": "/img/ftx.svg",
-      "website": "https://ftx.com/",
-      "twitter": "https://twitter.com/ftx_us",
-      "telegram": "https://t.me/FTX_US_Official",
+      "highlight": "Revolutionizing game night by turning the games you love into rich, interactive experiences. Featuring world-class titles, trusted brands, and your favorite stars - all in one place.",
+      "logo": "/img/gamestar.png",
+      "website": "https://www.gamestarplus.com/index.html",
+      "twitter": "https://twitter.com/gamestarplus?lang=en",
+      "telegram": "",
       "github": "",
-      "discord": "",
+      "discord": "https://discord.com/invite/gamestarplus",
       "summary": "",
       "docs": "",
       "cmc": "",
       "date": "",
-      "token": ""
+      "token": "$GSTAR"
     },
     {
       "name": "Gameswap",
@@ -1630,6 +2622,89 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "GMX",
+      "slug": "gmx",
+      "tags": [
+        "perpetual",
+        "defi"
+      ],
+      "status": "Live",
+      "highlight": "A decentralized perpetuals exchange with deep liquidity and minimal slippage.",
+      "logo": "/img/gmx.svg",
+      "website": "https://gmx.io/#/",
+      "twitter": "https://twitter.com/GMX_IO",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "GMX"
+    },
+    {
+      "name": "Gods of Asgard",
+      "slug": "godsofasgard",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Gods of Asgard is a P2E NFT game where players battle, survive, and earn your way through an epic Battle-Royale while exploring the vast open world of Midgard.",
+      "logo": "/img/godsofasgard.png",
+      "website": "https://godsofasgardp2e.com/",
+      "twitter": "https://twitter.com/GodsofAsgardP2E",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/thorfinancial",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Guarda Wallet",
+      "slug": "guarda",
+      "tags": [
+        "wallet"
+      ],
+      "status": "",
+      "highlight": "Safe & secure all-in-one non-custodial crypto wallet.",
+      "logo": "/img/guarda.svg",
+      "website": "https://guarda.com/",
+      "twitter": "https://twitter.com/GuardaWallet",
+      "telegram": "https://t.me/Guarda_community",
+      "github": "https://github.com/guardaco",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Gunfire AVAX",
+      "slug": "gunfireavax",
+      "tags": [
+        "gaming",
+        "fps"
+      ],
+      "status": "",
+      "highlight": "2D old school style NFT project based on",
+      "logo": "/img/gunfireavax.png",
+      "website": "https://gunfireavax.io/",
+      "twitter": "https://twitter.com/GunfireAVAX",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/BQUraxgCNC",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$GUNX"
     },
     {
       "name": "HackenProof",
@@ -1696,16 +2771,40 @@
       "name": "Hardhat",
       "slug": "hardhat",
       "tags": [
+        "sdk",
+        "security",
         "tools"
       ],
       "status": "",
-      "highlight": "A next-generation EVM tooling, works out of the box with Avalanche.",
+      "highlight": "EVM Development Environment.",
       "logo": "/img/hardhat.svg",
       "website": "https://hardhat.org/",
       "twitter": "https://twitter.com/HardhatHQ",
       "telegram": "",
       "github": "https://github.com/nomiclabs/hardhat",
       "discord": "https://discord.com/invite/TETZs2KK4k",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Hatchy Pocket",
+      "slug": "hatchypocket",
+      "tags": [
+        "gaming",
+        "mmorpg",
+        "casual social"
+      ],
+      "status": "",
+      "highlight": "Hatchy pocket is a high fidelity, new age, exclusive digital monster collectable, with limited numbers. Immortalized and proven by NFT technology!",
+      "logo": "/img/hatchypocket.png",
+      "website": "https://hatchypocket.com/",
+      "twitter": "https://twitter.com/HatchyPocket",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/cW378HVjyY",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -1731,7 +2830,50 @@
       "docs": "",
       "cmc": "",
       "date": "2022-01-14",
-      "token": ""
+      "token": "$HeC"
+    },
+    {
+      "name": "Hexagate",
+      "slug": "hexagate",
+      "date": "2022-10-08",
+      "highlight": "Hexagate is a web3 security company, on a mission to make web3.0 easy to access and secure for everyone.",
+      "logo": "/img/hexagate.svg",
+      "tags": [
+        "security",
+        "tools",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://hexagate.com/",
+      "twitter": "https://twitter.com/hexagate_",
+      "summary": "Hexagate is a web3 security platform for individuals and organizations that bundles a pre-transaction risk analysis tool and a web app to make web3.0 easy to access and secure. Hexagate's browser extension integrates seamlessly with any wallet or a self-custody solution and provides an in-line work experience protecting all assets in-flight during each transaction. Hexagate allows users to get full context of each transaction, and its associated financial and cyber risk before signing the transaction in their wallet eliminating fraud of all types, scams, front-end hacks, phishing attempts, and more. Hexagate also continuously monitors all used dapps post-transaction to continuously comply with the user's risk policies and be alert on security threats that matter to you.",
+      "telegram": "",
+      "discord": "",
+      "docs": "",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "HighRise",
+      "slug": "highrise",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "",
+      "highlight": "With over 10 million members, Highrise is the leading mobile-first metaverse. Every day, Highrise citizens create rooms, style avatars, host experiences, and much more.",
+      "logo": "/img/highrise.jpg",
+      "website": "https://about.joinhighrise.com/",
+      "twitter": "https://twitter.com/HighriseApp",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/384cnjGQKU",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RISE"
     },
     {
       "name": "Hodo Network",
@@ -1752,6 +2894,93 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Homora V2",
+      "slug": "homora-v2",
+      "date": "2021-10-21",
+      "highlight": "Homora V2 is the largest multichain lending and leveraged yield farming protocol",
+      "logo": "/img/homora-v2.png ",
+      "tags": [
+        "defi",
+        "lending",
+        "yield farming",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://homora-v2.alphafinance.io/",
+      "twitter": "https://twitter.com/Alpha_HomoraV2",
+      "summary": "Homora is the first flagship product incubated under Alpha Finance Lab deployed on the Ethereum network in October 2020. It is the largest multi-chain lending and leveraged yield farming protocol. Our long-term vision is to be the go-to protocol across key chains and L2s that offers the highest yields and the safest environments for you to boost your yields. Homora V2 is currently available on Ethereum, Avalanche, Fantom, and more coming soon.",
+      "telegram": "https://t.me/AlphaFinanceLab",
+      "discord": "https://discord.gg/8dfjautXj5",
+      "docs": "https://alphafinancelab.gitbook.io/homora-v2/v/homora-v2-avalanche/",
+      "github": "https://github.com/AlphaFinanceLab",
+      "token": "ALPHA.e",
+      "cmc": "https://coinmarketcap.com/currencies/alpha-finance-lab/"
+    },
+    {
+      "name": "Hopper Game (APA team)",
+      "slug": "hoppergame(apateam)",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "Live",
+      "highlight": "Idle game where your Hopper NFTs go on adventures to aquire $FLY for upgrades and breeding games.",
+      "logo": "/img/hoppergame(apateam).jpg",
+      "website": "https://hoppersgame.io/",
+      "twitter": "https://twitter.com/HoppersGame",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/hoppersgame",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$FLY"
+    },
+    {
+      "name": "Hubble Exchange",
+      "slug": "hubble-exchange",
+      "date": "2022-10-12",
+      "highlight": "Multi-Collateral, Cross-Margin Perpetual Futures on Avalanche",
+      "logo": "/img/hubble-exchange.svg",
+      "tags": [
+        "defi",
+        "dex",
+        "exchange",
+        "avalanche native"
+      ],
+      "status": "live",
+      "website": "https://app.hubble.exchange?ref=ecosystem.avax.network",
+      "twitter": "https://twitter.com/HubbleExchange",
+      "telegram": "https://t.me/HubbleExchange",
+      "discord": "https://discord.gg/DykaUCXC3t",
+      "docs": "https://docs.hubble.exchange",
+      "github": "https://github.com/hubble-exchange",
+      "summary": "Hubble Exchange is a decentralized platform for trading perpetual futures on Avalanche. Utilizing Avalanche’s low fees and highly scalable infrastructure, Hubble aims to offer a Avalanche-native experience for trading perpetual futures with its multi-collateral, cross-margin design."
+    },
+    {
+      "name": "Humanode",
+      "slug": "humanode",
+      "date": "2021-09-01",
+      "highlight": "Humanode is the first crypto-biometric network where one human = one node = one vote that brings Sybil resistance and innovative governance models to the crypto industry using private biometric technology. The direct biometric service allows NFT projects, DAOs, GameFi, metaverse, and other Dapps to integrate and enable unique online identities.",
+      "logo": "/img/humanode.png",
+      "tags": [
+        "blockchain",
+        "defi",
+        "biometrics"
+      ],
+      "status": "coming soon",
+      "website": "https://humanode.io/",
+      "twitter": "https://twitter.com/humanode_io",
+      "summary": "Humanode is the first crypto-biometric network where one human = one node = one vote that brings Sybil resistance and innovative governance models to the crypto industry using private biometric technology. Built as an EVM Compatible Substrate chain. The direct biometric service allows NFT projects, DAOs, GameFi, metaverse, and other Dapps to integrate and enable unique online identities. Joined by over 10k unique human beings.",
+      "telegram": "https://t.me/humanodes",
+      "discord": "https://link.humanode.io/chat",
+      "docs": "https://www.notion.so/humanode-network/Humanode-s-Public-Documents-46236f6327bc44d48583f713b44d275d",
+      "github": "https://github.com/humanode-network",
+      "token": "HMND",
+      "cmc": ""
     },
     {
       "name": "Hummingbot",
@@ -1815,6 +3044,28 @@
       "token": ""
     },
     {
+      "name": "IHELP Protocol",
+      "slug": "ihelp",
+      "date": "2022-08-15",
+      "highlight": "Charitable Giving Powered by Web3. IHELP is a decentralized donation protocol where anyone can participate and easily contribute to charitable causes worldwide.",
+      "logo": "/img/ihelp.png",
+      "tags": [
+        "defi",
+        "dapp",
+        "yield farming",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://app.ihelp.finance",
+      "twitter": "https://twitter.com/ihelp_defi",
+      "summary": "The IHELP protocol serves the intersection of Web3 and charitable giving. IHELP is a decentralized donation protocol where anyone can participate and easily contribute to charitable causes worldwide. IHELP allows you to sustainably & automatically donate yield to any charity in the ecosystem. You can also easily donate tokens directly if you wish.",
+      "telegram": "https://t.me/ihelp_finance",
+      "discord": "https://discord.com/invite/qXKE27dZVb",
+      "docs": "https://docs.ihelp.finance",
+      "github": "https://github.com/ihelp-finance",
+      "token": "HELP"
+    },
+    {
       "name": "ImmuneFi",
       "slug": "immunefi",
       "tags": [
@@ -1834,6 +3085,29 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Imperium Empires",
+      "slug": "imperium-empires",
+      "date": "2021-10-03",
+      "highlight": "AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. It revolutionizes blockchain games through high quality graphics and gameplay, well-thought-out tokenomics, team-to-earn guild mechanics and deep DeFi integration.",
+      "logo": "/img/imperium-empires.svg",
+      "tags": [
+        "avalanche native",
+        "gaming",
+        "nft",
+        "play-to-earn"
+      ],
+      "status": "coming soon",
+      "website": "https://imperiumempires.com/",
+      "twitter": "https://twitter.com/avalancheavax",
+      "summary": "Imperium Empires is the first AAA-quality MMORTS space metaverse on Avalanche, built by accomplished game devs with 10+ yrs experience. Funded by top-tier VCs such as GBV Capital and Three Arrows Capital, Imperium Empires is set to revolutionize blockchain gaming through its AAA-quality graphics and gameplay, well-thought-out tokenomics design, guild mechanics and deep DeFi integration. Imperium Empires solves 4 major problems commonly seen in other blockchain games: (i) low-quality graphics and limited gameplay - simply put, no fun for play-to-earn; (ii) hyperinflationary and unsustainable tokenomics - with no NFT burn mechanisms, NFT supply inflates exponentially through breeding, so play-to-earn rewards drain fast and collapse as the number of players grows; (iii) lack of guild-based gameplay that bonds guild members together and retain players in the long term; and (iv) lack of deep DeFi integration except for liquidity-mining-styled single sided staking.",
+      "telegram": "https://t.me/ImperiumEmpiresofficial",
+      "discord": "http://discord.gg/ImperiumEmpires",
+      "docs": "https://docs.imperiumempires.com/",
+      "github": "",
+      "token": "IME",
+      "cmc": "https://coinmarketcap.com/currencies/imperium-empires/"
     },
     {
       "name": "Injective Protocol",
@@ -1876,6 +3150,63 @@
       "token": ""
     },
     {
+      "name": "inSure DeFi",
+      "slug": "insure-defi",
+      "date": "2018-12-15",
+      "highlight": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.",
+      "logo": "/img/logo-grey-circle-80.png",
+      "tags": [
+        "dao",
+        "defi",
+        "ecosystem",
+        "infrastructure"
+      ],
+      "status": "live",
+      "website": "https://insuretoken.net",
+      "twitter": "https://twitter.com/InsureToken",
+      "summary": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations.  inSure DeFi Ecosystem is DAO-based and community-governed, ensuring all matters are voted on by community members. Generous staking rewards for contributors help incentivize the Liquidity Pool depth - boosting the stability of SURE tokens. The community funds are continuously distributed, meaning, capital is reinvested and ecosystem stability is ensured. inSure DeFi underwrites Centralized Exchange asset risks as well as NFT, DeFi, and Metaverse ecosystem risks over multiple blockchains.",
+      "telegram": "https://t.me/insuredefi",
+      "docs": "https://insuretoken.net/whitepaper.html",
+      "github": "https://github.com/inSureToken",
+      "token": "SURE",
+      "cmc": "https://coinmarketcap.com/currencies/insure"
+    },
+    {
+      "name": "Intract",
+      "slug": "intract",
+      "date": "2022-08-26",
+      "highlight": "On-chain marketing platform for you to analyze and grow your users.",
+      "logo": "/img/intract.png",
+      "tags": [
+        "api",
+        "dashboard",
+        "sdk",
+        "tools"
+      ],
+      "status": "live",
+      "website": "https://www.intract.buzz/",
+      "twitter": "https://twitter.com/intractbuzz",
+      "summary": "Intract is a one-stop platform to supercharge your product and marketing. The first-of-its-kind solution helps you analyze & grow your on-chain users as well as engage your off-chain community. After successful case studies with 50+ marquee projects across DeFi, GameFi & NFT verticals, Intract has plans to advance further and increase its functionality. This makes Intract the go-to solution for analytics and marketing for any web3 project."
+    },
+    {
+      "name": "Joepegs",
+      "slug": "joepegs",
+      "date": "2022-05-04",
+      "highlight": "Premium NFT Marketplace",
+      "logo": "/img/joepegs.jpg",
+      "tags": [
+        "art",
+        "culture",
+        "nft",
+        "marketplace"
+      ],
+      "status": "live",
+      "website": "https://joepegs.com/",
+      "twitter": "https://twitter.com/joepegsnft",
+      "summary": "Joepegs is Trader Joe's premium NFT marketplace and launchpad, facilitating the growth of quality projects on Avalanche. Explore Avalanche NFTs, support new artists and trade classic collections on Joepegs, the cultural hub for quality digital assets and web 3 experiences.",
+      "discord": "https://discord.gg/traderjoe"
+    },
+    {
       "name": "JulWallet",
       "slug": "julwallet",
       "tags": [
@@ -1916,6 +3247,47 @@
       "token": ""
     },
     {
+      "name": "Keystone",
+      "slug": "keystone",
+      "tags": [
+        "wallet"
+      ],
+      "status": "",
+      "highlight": "A top-notch hardware wallet for optimal security, user-friendly interface and extensive compatibility.",
+      "logo": "/img/keystone.png",
+      "website": "https://keyst.one/",
+      "twitter": "https://twitter.com/KeystoneWallet",
+      "telegram": "https://t.me/KeystoneWallet",
+      "github": "https://github.com/KeystoneHQ",
+      "discord": "https://discord.gg/6vEfPEJKJD",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Kingdom Quest",
+      "slug": "kingdomquest",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Building metaverse with 4 games using 1 token and NFT system",
+      "logo": "/img/kingdomquest.webp",
+      "website": "https://kingdomquest.io/",
+      "twitter": "https://twitter.com/kingdomquest_io",
+      "telegram": "https://t.co/u51COB2Sl5",
+      "github": "",
+      "discord": "https://t.co/h7CoI11JEg",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Knit Finance",
       "slug": "knit-finance",
       "tags": [
@@ -1934,6 +3306,29 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Krystal",
+      "slug": "krystal",
+      "date": "2021-04-01",
+      "highlight": "Krystal is a multi-chain platform to easily access popular DeFi services and manage your assets including NFTs",
+      "logo": "krystal.png",
+      "tags": [
+        "swap",
+        "defi",
+        "wallet",
+        "launchpads"
+      ],
+      "status": "live",
+      "website": "https://krystal.app/",
+      "twitter": "https://twitter.com/KrystalDefi",
+      "summary": "Krystal DeFi is a multi-chain platform to easily access popular DeFi services and manage NFTs. Krystal is a convenient, single point of access to transact with leading protocols on multiple blockchains, including KyberSwap, Uniswap, Aave, Venus Protocol, PancakeSwap, SushiSwap et.al. To date, Krystal supports Wallet, Swap & Earn services on 10 blockchains - Ethereum mainnet, Binance Smart Chain, Polygon, Avalanche, Fantom, Cronos, Arbitrum, Aurora, Solana and Klaytn. Krystal brings users the best token swap rates via SmartSwap, its Smart Liquidity Aggregator that sources tokens from 40+ DEXes. Additionally, users can earn passive income, manage NFTs, participate in token sales via its launchpad KrystalGO, and access cutting edge portfolio management and market insights tools. Topping it off, Krystal’s one-of-a-kind rewards program earns users bonus incentives when they trade or successfully refer friends.",
+      "telegram": "https://t.me/KrystalDefi",
+      "discord": "",
+      "docs": "https://docs.krystal.app/",
+      "github": "https://github.com/KYRDTeam",
+      "token": "",
+      "cmc": ""
     },
     {
       "name": "Kurtosis",
@@ -2072,6 +3467,97 @@
       "twitter": "https://twitter.com/letsexchange_io",
       "summary": "LetsExchange is a one-stop multicurrency exchange service free of registration, limits, and complications. Built by a team of crypto visionaries with 10+ years of experience in the blockchain space and fintech, LetsExchange saves your time at each step of a crypto swap and amplifies your trading revenue.",
       "telegram": "https://t.me/letsexchange_io"
+    },
+    {
+      "name": "Liminal",
+      "slug": "Liminal",
+      "date": "05-2021",
+      "highlight": "At Liminal our mission is to simplify self custody. We make it extremely easy and secure for individuals and businesses to manage their digital assets without giving up control and ownership.",
+      "logo": "/img/liminal.png",
+      "tags": [
+        "wallet",
+        "custody",
+        "institutional",
+        "infrastructure",
+        "multichain"
+      ],
+      "status": "live",
+      "website": "https://lmnl.app",
+      "twitter": "https://twitter.com/LmnlHQ",
+      "summary": "Liminal is an enterprise-grade platform that offers a robust infrastructure for managing digital assets. Liminal enables crypto-native companies to securely scale their digital asset operations through hardware devices backed, plug and play wallet architecture. Liminal's security-first approach, allows projects to define customized policies and assign roles to users based on their responsibilities. Their zero key leakage tolerance approach helps companies in eliminating the risks associated with digital asset transfers, such as cyber-attacks, internal collusion, and human error. Their unified interface ensures the same wallet management experience for multiple blockchains. Their proprietary regulatory readiness program, which includes AML checks, travel rules, and CCSS-compliant platforms, helps projects fast-track their compliance journey.",
+      "telegram": "https://t.me/liminalhq",
+      "discord": "",
+      "docs": "https://docs.lmnl.app/docs",
+      "github": "https://github.com/Liminalhq/",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "LODE",
+      "slug": "lodeproject",
+      "date": "2022-09-07",
+      "highlight": "AVAX native, silver and gold currencies, wallet and payment ecosystem. Elevate your finances with silver and gold.",
+      "logo": "/img/lodeproject.png",
+      "tags": [
+        "Stablecoin",
+        "Wallet",
+        "Defi",
+        "Avalanche Native"
+      ],
+      "status": "live",
+      "website": "https://lode.one/",
+      "twitter": "https://twitter.com/LODE_one",
+      "summary": "LODE is a monetary system backed by silver and gold. It creates inflation resistant and transparent financial solutions. Spend, send, save, and earn money securely. It’s existing products are AGX Coins (digital silver), AUX Coins (digital gold), LODE Tokens, and the Web3 LODEapp Wallet.",
+      "telegram": "https://t.me/+SWGpp7GuGG9eQMqA",
+      "discord": "",
+      "docs": "",
+      "github": " https://github.com/lode-one",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "Lootex",
+      "slug": "lootex",
+      "date": "2022-03-31",
+      "highlight": "Lootex is a multi-chain game asset marketplace for the Metaverse. There are 500+ games listed on Lootex. players can easily browse and trade the most popular game assets.",
+      "logo": "/img/lootex-logo.svg",
+      "tags": [
+        "inrastructure",
+        "launchpads",
+        "nft",
+        "marketplace"
+      ],
+      "status": "live",
+      "website": "https://lootex.io/",
+      "twitter": "https://twitter.com/lootexio",
+      "summary": "Our platform is designed with an array of tools to ensure that gamers have the best purchasing experience. Lootex provides a fraud-free, cross-blockchain ecosystem that allows for transparent trading powered by smart contracts. Game developers and gamers alike can design and build their own branded stores to sell the rare items that they collect. If you are interested in GameFi, play-to-earn games, or the Metaverse, Lootex is the place to be.",
+      "telegram": "https://t.me/lootex",
+      "discord": "https://discord.gg/mbKBARJRBR",
+      "docs": "https://portal.lootex.io/en/support/home",
+      "github": "https://github.com/lootex-io",
+      "token": "LOOT",
+      "cmc:": "https://coinmarketcap.com/zh-tw/currencies/lootex/"
+    },
+    {
+      "name": "Lost Worlds",
+      "slug": "lostworlds",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Location Based NFT Platform. Mint NFTs From Real World Locations ",
+      "logo": "/img/lostworlds.png",
+      "website": "https://lostworlds.io/",
+      "twitter": "https://lostworlds.io/assets/twitter.9e201712.svg",
+      "telegram": "https://lostworlds.io/assets/telegram.f3cc5e7e.svg",
+      "github": "",
+      "discord": "https://lostworlds.io/assets/discord.554d2e4f.svg",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
     },
     {
       "name": "Lydia Finance",
@@ -2214,6 +3700,27 @@
       "token": "MAXI"
     },
     {
+      "name": "Metaderby",
+      "slug": "metaderby",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "Live",
+      "highlight": "MetaDerby is the first free-to-play-and-earn horse racing metaverse where anyone can earn tokens through skilled gameplay and contribute to building the MetaDerby universe.",
+      "logo": "/img/metaderby.png",
+      "website": "https://www.metaderby.com/",
+      "twitter": "https://twitter.com/metaderby",
+      "telegram": "https://t.me/MetaDerbyOfficial",
+      "github": "",
+      "discord": "https://discord.gg/zAqk3GXeVJ",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$DBY, $HOOF"
+    },
+    {
       "name": "Metamask",
       "slug": "metamask",
       "tags": [
@@ -2232,6 +3739,27 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Minimax Finance",
+      "slug": "minimax-finance",
+      "date": "2022-01-18",
+      "highlight": "Easy entry into vaults from multiple platforms in one dapp with no need to convert. Stop loss and take profit for staking, lending and farming.",
+      "logo": "/img/minimax-finance.svg",
+      "tags": [
+        "defi",
+        "yield farming",
+        "multi-chain",
+        "portfolio"
+      ],
+      "status": "live",
+      "website": "http://minimax.finance/",
+      "twitter": "https://twitter.com/MinimaxFinance",
+      "summary": "Minimax Finance enables DeFi users to manage all or at least most of their DeFi investments in one dapp instead of many. The multi-chain platform provides a number of unique features for more profitable and safer DeFi experience: 1. Stop-loss and take-profit for staking, lending and farming. 2. Entry into vaults with any token users have, no need to pre-convert tokens. 3. Withdrawal of deposits into any token, so users can immediately get the asset they want when they are done with farming.  4. Advanced risk and money management - unlimited positions in the same vault for higher yields. 5. Token section, where users can quickly identify idle tokens and put them to work. 6. Cross-chain swaps. 7. More features being developed as you read this.",
+      "telegram": "https://t.me/MinimaxFinanceChat",
+      "discord": "https://discord.gg/A6GJ6Qktwm",
+      "docs": "https://docs.minimax.finance/",
+      "github": "https://github.com/minimaxdefi"
     },
     {
       "name": "Money Dance",
@@ -2272,6 +3800,48 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "More Money",
+      "slug": "more-money",
+      "tags": [
+        "lending",
+        "defi",
+        "stablecoin"
+      ],
+      "status": "Live",
+      "highlight": "Leverage yield-bearing assets to borrow native MONEY stablecoin.",
+      "logo": "/img/more-money.svg",
+      "website": "https://moremoney.finance/",
+      "twitter": "https://twitter.com/Moremoneyfi",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "MONEY"
+    },
+    {
+      "name": "Mt Pelerin",
+      "slug": "mtpelerin",
+      "date": "2018-09-27",
+      "highlight": "Your crypto-fiat gateway for Avalanche",
+      "logo": "/img/mtpelerin.svg",
+      "tags": [
+        "fiat-ramp",
+        "exchange"
+      ],
+      "status": "live",
+      "website": "https://www.mtpelerin.com/",
+      "twitter": "https://twitter.com/mtpelerin",
+      "summary": "Buy AVAX and USDC directly on your own Avalanche wallet in minutes, no KYC required. Cash them out from your wallet and withdraw funds in 20+ currencies on your bank account in 171 countries. Get the live market rates, the lowest fees and no hidden costs. Integrate our crypto-fiat gateway to your website or mobile app in a few clicks. Mt Pelerin is an authorized financial intermediary regulated and audited in Switzerland.",
+      "telegram": "https://t.me/mtpelerinchat",
+      "docs": "https://developers.mtpelerin.com/",
+      "github": "https://github.com/MtPelerin",
+      "token": "MPS",
+      "cmc": "https://www.coingecko.com/en/coins/mt-pelerin-shares"
     },
     {
       "name": "MyCointainer",
@@ -2334,24 +3904,49 @@
       "token": ""
     },
     {
-      "name": "Nexo",
-      "slug": "nexo",
+      "name": "Nereus Finance",
+      "slug": "nereus-finance",
+      "date": "2022-02-23",
+      "highlight": "DeFi protocol that provides lending, savings, and payment solutions",
+      "logo": "/img/Nereus_logo.svg",
       "tags": [
-        "defi"
+        "defi",
+        "lending",
+        "NFT",
+        "stablecoin"
       ],
-      "status": "",
-      "highlight": "The world's leading regulated digital assets institution",
-      "logo": "/img/nexo.svg",
-      "website": "https://nexo.io/?v=t4",
-      "twitter": "https://twitter.com/nexofinance",
-      "telegram": "https://t.me/nexofinance",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
+      "status": "live",
+      "website": "https://nereus.finance",
+      "twitter": "https://twitter.com/nereusfinance",
+      "summary": "Nereus is a DeFi protocol that provides lending, savings, and payment solutions. Nereus supports saving, farming, and lending strategies for everyone from the crypto novice to the crypto native. Variable Rate Lending (Liquidity Markets): With Nereus liquidity markets users can participate as depositors or borrowers. Depositors provide liquidity to the market to earn a passive income, while borrowers can borrow tokens against over-collateralised positions at variable interest rates. 0% Interest Borrowing (NXUSD Borrowing): With NXUSD, the Nereus protocol native over-collateralised stablecoin, users can deposit their assets and borrow NXUSD against this collateral at 0% interest. NXUSD Payments: Through Nereus' partnership with Wirex, users can add NXUSD to their Wirex app and directly spend NXUSD using the Wirex crypto debit card.",
+      "discord": "https://discord.gg/G7J6asSt5n",
+      "docs": "https://docs.nereus.finance",
+      "github": "https://github.com/nereusfinance",
+      "token": "WXT",
+      "cmc": "https://coinmarketcap.com/currencies/wirex-token/"
+    },
+    {
+      "name": "Nested",
+      "slug": "nested",
+      "date": "2021-09-01",
+      "highlight": "The one-stop SocialFi app to build, manage, replicate and monetize portfolios.",
+      "logo": "/img/nested.svg",
+      "tags": [
+        "defi",
+        "nft",
+        "multi-chain",
+        "portfolio"
+      ],
+      "status": "live",
+      "website": "https://nested.fi/",
+      "twitter": "https://twitter.com/NestedFi",
+      "summary": "Nested is a social trading platform aimed at democratizing and socializing DeFi. Multi-chain and built to scale, Nested allows users to build a profile and then create, copy, manage, update, send and share financial portfolios. These financial portfolios — the 'Nested portfolios'— are represented as non-fungible tokens (NFTs), reflecting sets of tokens.",
+      "telegram": "https://t.me/NestedFinanceChannel",
+      "discord": "https://discord.com/invite/VW8ZZsACzd",
+      "docs": "https://docs.nested.fi/",
+      "github": "https://github.com/NestedFi/nested-core-lego",
+      "token": "NST",
+      "cmc": ""
     },
     {
       "name": "NFT Stars",
@@ -2475,6 +4070,24 @@
       "token": ""
     },
     {
+      "name": "OKLink Avalanche Explorer",
+      "slug": "OKLink-avalanche-explorer",
+      "date": "2022-07-29",
+      "highlight": "OKLink Avalanche Explorer, allowing users to search transactions, blocks, wallet addresses, smart contracts, and other on-chain data on Avalanche chain.",
+      "logo": "/img/oklink.png",
+      "tags": [
+        "infrastructure",
+        "explorer",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://www.oklink.com/en/avax/",
+      "twitter": "https://twitter.com/OKLink",
+      "summary": "OKLink blockchain explorer allows users to search through transactions, blocks, wallet addresses, smart contracts, and other on-chain data covering 13 mainstream chains including BTC, ETH, BSC, Avalanche, Solana, polygon，etc.",
+      "telegram": "https://t.me/oukeyunlianoklink",
+      "discord": "https://discord.com/invite/QcywHPgk4S"
+    },
+    {
       "name": "Onomy",
       "slug": "onomy",
       "tags": [
@@ -2495,16 +4108,86 @@
       "token": ""
     },
     {
-      "name": "OpenOcean",
-      "slug": "openocean",
+      "name": "Openblox",
+      "slug": "openblox",
       "tags": [
-        "defi"
+        "gaming",
+        "fitfi",
+        "casual"
       ],
       "status": "",
-      "highlight": "A full aggregation protocol for crypto trading.",
-      "logo": "/img/openocean.png",
+      "highlight": "Openblox is a world where you can start your jouirney with your Blox to hunt, clollect, breed, battle, and xplore this magical land",
+      "logo": "/img/openblox.svg",
+      "website": "https://openblox.io/",
+      "twitter": "https://twitter.com/OpenBlox_io",
+      "telegram": "https://t.me/openblox_eng",
+      "github": "",
+      "discord": "https://discord.com/invite/openblox",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "OpenOcean",
+      "slug": "openocean",
+      "date": "2021-07-29",
+      "highlight": "OpenOcean is a leading decentralized exchange (DEX) aggregator, integrating the most major liquidity sources on Avalanche to offer users the best swap rates.",
+      "logo": "/img/OpenOcean.png",
+      "tags": [
+        "defi",
+        "dex",
+        "multi-chain",
+        "swap"
+      ],
+      "status": "live",
       "website": "https://openocean.finance/",
-      "twitter": "https://twitter.com/OpenOceanGlobal",
+      "twitter": " https://twitter.com/OpenOceanGlobal",
+      "summary": "Leading DEX aggregator to bring users the best swap return for decentralized crypto trading by integrating the most liquidity sources across a wide range of blockchains into one seamless trading interface.",
+      "telegram": "https://t.me/OOFinance",
+      "discord": "https://discord.gg/C7PHQaKdNX",
+      "docs": "https://docs.openocean.finance/",
+      "github": "https://github.com/openocean-finance/",
+      "token": "OOE",
+      "cmc": "https://coinmarketcap.com/currencies/openocean/"
+    },
+    {
+      "name": "Opensea",
+      "slug": "opensea",
+      "tags": [
+        "art",
+        "culture",
+        "nft",
+        "marketplace"
+      ],
+      "status": "Live",
+      "highlight": "A multi-chain NFT marketplace.",
+      "logo": "/img/opensea.svg",
+      "website": "https://opensea.io/",
+      "twitter": "https://twitter.com/opensea",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "OpenZeppelin",
+      "slug": "openzeppelin",
+      "tags": [
+        "infrastructure",
+        "sdk",
+        "security"
+      ],
+      "status": "Live",
+      "highlight": "Smart Contracts / Web3 Code Library.",
+      "logo": "/img/openzeppelin.svg",
+      "website": "https://www.openzeppelin.com/",
+      "twitter": "https://twitter.com/OpenZeppelin",
       "telegram": "",
       "github": "",
       "discord": "",
@@ -2535,6 +4218,27 @@
       "token": ""
     },
     {
+      "name": "P2E Analytics",
+      "slug": "p2eanalytics",
+      "tags": [
+        "gaming",
+        "guild"
+      ],
+      "status": "",
+      "highlight": "p2eanalytics.com is your GameFi Hub. Tools to help you analyze and discover new games.",
+      "logo": "/img/p2eanalytics.png",
+      "website": "https://p2eanalytics.com/",
+      "twitter": "https://twitter.com/P2EAnalytics",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/VDkTXHNrSp",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Pangolin",
       "slug": "pangolin",
       "tags": [
@@ -2549,6 +4253,27 @@
       "telegram": "https://t.me/pangolindex",
       "github": "https://github.com/pangolindex",
       "discord": "https://discord.gg/PARrDYYbfw",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Paradise Tycoon",
+      "slug": "paradisetycoon",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development ",
+      "highlight": "Create your personal paradise island in a free P2E metaverse game",
+      "logo": "/img/paradisetycoon.png",
+      "website": "https://paradisetycoon.com/",
+      "twitter": "https://twitter.com/paradisetycoon",
+      "telegram": "https://t.me/paradisetycoon",
+      "github": "",
+      "discord": "https://discord.gg/sWsNzUWCSb",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -2596,6 +4321,29 @@
       "token": ""
     },
     {
+      "name": "Peachfolio",
+      "slug": "Peachfolio",
+      "date": "2021-05-01",
+      "highlight": "Track all your DeFi tokens from the moment they launch",
+      "logo": "/img/peachfolio.png",
+      "tags": [
+        "defi",
+        "wealth management",
+        "utility",
+        "portfolio"
+      ],
+      "status": "live",
+      "website": "https://www.peachfolio.app/",
+      "twitter": "https://twitter.com/peachfolio",
+      "summary": "Trade safer. Trade smarter. No matter your level of experience. Get cutting-edge tracking and analytics tools that help you tradentokens with confidence, whether you’re an experienced trader or new to DeFi. The Peachfolio ecosystem is the only multi-platform smart solution that delivers portfolio data, market analytics, crypto news, and financial tools right to your fingertips. The Peachfolio app is an easy-to-use wallet tracker app optimized for your DeFi portfolio. You can keep track of all your wallets, set price alerts, and get in-depth insights for all of your tokens, even brand-new ones.",
+      "telegram": "https://t.me/peachfolio",
+      "discord": "",
+      "docs": "",
+      "github": "https://github.com/Peachfolio",
+      "token": "PCHF",
+      "cmc": "https://coinmarketcap.com/currencies/peachfolio/"
+    },
+    {
       "name": "Pendle",
       "slug": "pendle",
       "tags": [
@@ -2633,6 +4381,71 @@
       "docs": "",
       "cmc": "",
       "date": "",
+      "token": ""
+    },
+    {
+      "name": "Pizza Game",
+      "slug": "pizzagame",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "Live",
+      "highlight": "Inspired by Cookie Clicker - we are bringing your favorite childhood game to Avalanche",
+      "logo": "/img/pizzagame.jpg",
+      "website": "https://pizza.game/",
+      "twitter": "https://twitter.com/PizzadotGame",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/pizzagame",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$PIZZA, $SODA"
+    },
+    {
+      "name": "Platypus Finance",
+      "slug": "platypus-finance",
+      "tags": [
+        "defi",
+        "exchange",
+        "avalanche native",
+        "dex"
+      ],
+      "status": "live",
+      "highlight": "Platypus finance is a novel open-liquidity stableswap protocol native on Avalanche.",
+      "logo": "/img/platypus-finance.png",
+      "website": "https://platypus.finance/",
+      "twitter": "https://twitter.com/Platypusdefi",
+      "telegram": "https://t.me/Platypusdefi",
+      "github": "https://github.com/platypus-finance/",
+      "discord": "https://discord.com/invite/B6ThAvev2A?utm_source=Discord&utm_medium=Linktree",
+      "summary": "",
+      "docs": "https://docs.platypus.finance/",
+      "cmc": "https://coinmarketcap.com/currencies/platypus-finance/",
+      "date": "2022-01-16",
+      "token": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8"
+    },
+    {
+      "name": "Pokket",
+      "slug": "pokket",
+      "tags": [
+        "Portfolio",
+        "Wealth Management"
+      ],
+      "status": "live",
+      "highlight": "A financial platform provides fixed deposits for AVAX HODL.",
+      "logo": "/img/pokket.svg",
+      "website": "https://pokket.com/",
+      "twitter": "https://twitter.com/POKKETOfficial",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/d32Gggq6",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "2019-07-01",
       "token": ""
     },
     {
@@ -2761,6 +4574,28 @@
       "token": ""
     },
     {
+      "name": "Pulsar",
+      "slug": "pulsar",
+      "tags": [
+        "gaming",
+        "rts",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "SciFi MMO RTS that allows you to travel the universe and conquer terrifying worlds.",
+      "logo": "/img/pulsar.jpg",
+      "website": "https://12rw.io/",
+      "twitter": "https://twitter.com/Alvaro12rw",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Quadency",
       "slug": "quadency",
       "tags": [
@@ -2801,6 +4636,115 @@
       "token": ""
     },
     {
+      "name": "Rabby Wallet",
+      "slug": "rabby",
+      "date": "2022-08-24",
+      "highlight": "The game-changing wallet for Ethereum and all EVM chains",
+      "logo": "/img/rabby.png",
+      "tags": [
+        "wallet",
+        "nft",
+        "defi"
+      ],
+      "status": "live",
+      "website": "https://rabby.io/",
+      "twitter": "https://twitter.com/Rabby_io",
+      "summary": "Rabby Wallet is an open-sourced browser extension wallet for all EVM chains. Rabby offers a smooth multi-chain experience, allowing users to switch chains within a second while exploring Dapps. Rabby also protects users from security vulnerabilities by scanning every transaction to identify the potential risks. Rabby is designed and developed with a higher standard to guard users' asset security.",
+      "telegram": "https://t.me/rabby_io",
+      "discord": "https://discord.com/invite/seFBCWmUre",
+      "docs": "",
+      "github": "https://github.com/RabbyHub/Rabby",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "RaceX",
+      "slug": "racex",
+      "tags": [
+        "gaming",
+        "racing"
+      ],
+      "status": "In development",
+      "highlight": "The first Race-2-Earn gaming platform on Avalanche utilizing NFT racecars.",
+      "logo": "/img/racex.png",
+      "website": "https://racex.tech/",
+      "twitter": "https://t.co/CianEzcvMu",
+      "telegram": "https://twitter.com/DcrcAvax",
+      "github": "",
+      "discord": "https://t.co/bn12Enmueu",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$RACEX"
+    },
+    {
+      "name": "Raffllrr",
+      "slug": "Raffllrr",
+      "tags": [
+        "nft",
+        "tools",
+        "dapp"
+      ],
+      "status": "live",
+      "highlight": "Raffllrr is the premier raffling dApp on Avalanche. Providing artists and collectors the power to raffle NFTs safely and securely.",
+      "logo": "/img/raffllrr.png",
+      "website": "https://www.raffllrr.xyz/",
+      "twitter": "https://twitter.com/raffllrr",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/raffllrr",
+      "summary": "Raffllrr is the premier raffling dApp on Avalanche. Providing artists and collectors the power to raffle NFTs safely and securely.",
+      "docs": "https://docs.raffllrr.xyz/",
+      "cmc": "",
+      "date": "2023-01-06",
+      "token": ""
+    },
+    {
+      "name": "Rango",
+      "slug": "rango",
+      "date": "2022-10-31",
+      "highlight": "First MultiChain Bridge and Dex Aggregator Supporting 10,000 Tokens across +40 Chains",
+      "logo": "/img/rango.png",
+      "tags": [
+        "multi-chain",
+        "dex",
+        "bridge",
+        "dapp"
+      ],
+      "status": "live",
+      "website": "https://app.rango.exchange",
+      "twitter": "https://twitter.com/RangoExchange",
+      "summary": "Rango Exchange is the most powerful multi-chain platform for DEX and bridges all around the crypto world, based on reachability and support of top blockchains. It doesn’t matter where the user is and where he or she wants to go, Rango will be able to find the most secure, fast, and easy path for it. We currently support more than 40 blockchains, 100 DEXes, 10 bridges, and 6 different wallets, with a modern and user-friendly UX in the market. Rango exchange provides a versatile API that helps dApps and wallets get free from hassles of connecting to dozens of blockchains, tracking transactions, verifying third-party providers, etc. The whole idea behind our API is to make it the easiest possible solution on the market.",
+      "telegram": "https://t.me/rangoexchange",
+      "discord": "",
+      "docs": "https://docs.rango.exchange",
+      "github": "https://github.com/rango-exchange",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "Re",
+      "slug": "re",
+      "tags": [
+        "defi",
+        "marketplace"
+      ],
+      "status": "Testnet",
+      "highlight": "Decentralized reinsurance marketplace.",
+      "logo": "/img/re.svg",
+      "website": "https://re.xyz/",
+      "twitter": "https://twitter.com/REprotocol",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Reef",
       "slug": "reef",
       "tags": [
@@ -2814,6 +4758,28 @@
       "telegram": "https://t.me/reefdefi",
       "github": "",
       "discord": "https://discord.com/invite/reefdefi",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Remix",
+      "slug": "remix",
+      "tags": [
+        "security",
+        "sdk",
+        "tools"
+      ],
+      "status": "Live",
+      "highlight": "Learn Ethereum Smart Contracts.",
+      "logo": "/img/remix.svg",
+      "website": "https://remix-project.org/",
+      "twitter": "https://twitter.com/EthereumRemix",
+      "telegram": "",
+      "github": "",
+      "discord": "",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -2839,6 +4805,75 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "RoboVault",
+      "slug": "robovault",
+      "tags": [
+        "defi",
+        "yield farming"
+      ],
+      "status": "Live",
+      "highlight": "Delta-neutral yield farming strategies.",
+      "logo": "/img/robovault.svg",
+      "website": "https://www.robo-vault.com/",
+      "twitter": "https://twitter.com/robo_vault",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "RocketX",
+      "slug": "rocketx",
+      "date": "2021-04-13",
+      "highlight": "RocketX is on a mission to enhance interoperability between blockchains. We enable CROSS-CHAIN SWAP and BRIDGE of native assets across leading networks via single intuitive UI. RocketX simplifies access to AVAX network and thereby drives the mass adoption of the network.",
+      "logo": "/img/rocketx.png",
+      "tags": [
+        "bridge",
+        "dex",
+        "defi",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://rocketx.exchange",
+      "twitter": "https://twitter.com/RocketXexchange",
+      "summary": "RocketX is the FIRST “Multi-Chain” CEX & DEX aggregator that helps users swap ANY token on ANY chain with best rates across 200+ exchanges. RocketX is on a mission to enhance interoperability between blockchains & simplify Multi-Chain trading by enabling CROSS-CHAIN SWAP and BRIDGE of native assets across leading networks via single intuitive UI.",
+      "telegram": "https://t.me/RocketXexchange",
+      "discord": "",
+      "docs": "",
+      "github": "https://github.com/rocketx-labs",
+      "token": "RVF",
+      "cmc": "https://coinmarketcap.com/currencies/rocket-vault-rocketx"
+    },
+    {
+      "name": "ROCO",
+      "slug": "ROCO",
+      "date": "2022-02-16",
+      "highlight": "ROCO is a decentralized GAMEFI platform which provide blockchain services to game developers, content creators and player communities through the blockchain network",
+      "logo": "/img/roco.png",
+      "tags": [
+        "gaming",
+        "defi",
+        "play-to-earn",
+        "dapp",
+        "nft",
+        "launchpads"
+      ],
+      "status": "live",
+      "website": "https://roco.finance",
+      "twitter": "https://twitter.com/rocofinance",
+      "summary": "",
+      "telegram": "https://t.me/rocofinance",
+      "discord": "https://discord.com/invite/Fxbf4PVtua",
+      "docs": "https://docs.roco.finance/rocofinance/",
+      "github": "https://github.com/rocofinance",
+      "token": "https://snowtrace.io/token/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+      "cmc": "https://coinmarketcap.com/currencies/roco-finance/"
     },
     {
       "name": "Rome Terminal",
@@ -2881,6 +4916,94 @@
       "token": ""
     },
     {
+      "name": "Runblox",
+      "slug": "runblox",
+      "tags": [
+        "play-to-earn",
+        "avalanche native"
+      ],
+      "status": "Live",
+      "highlight": "Native NFT marketplace.",
+      "logo": "/img/runblox.svg",
+      "website": "https://runblox.io/",
+      "twitter": "https://twitter.com/RunBlox_io",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "RunOnFlux",
+      "slug": "flux-cloud",
+      "tags": [
+        "infrastructure",
+        "multi-chain",
+        "utility",
+        "nodes"
+      ],
+      "status": "live",
+      "highlight": "Flux is the new generation of decentralized cloud infrastructure. By, and For the People.",
+      "logo": "/img/runonflux.png",
+      "website": "https://runonflux.io",
+      "twitter": "https://twitter.com/RunOnFlux",
+      "telegram": "https://t.me/runonflux",
+      "github": "https://github.com/RunOnFlux",
+      "discord": "https://discord.io/runonflux",
+      "summary": "Flux is the new generation of decentralized cloud infrastructure. By, and For the People. The community is the backbone by spinning up high computational nodes to support it, and getting incentivized to do so. Developers can decentralize their infrastructure needs via Docker containers and gravitate towards Web3. The advantages are redundancy, interoperability, decentralization, and cost efficiency. Start your Web3 journey the right way - Deploy on Flux!",
+      "docs": "https://docs.runonflux.io/",
+      "cmc": "https://coinmarketcap.com/currencies/zel/",
+      "date": "2022-07-25",
+      "token": "FLUX"
+    },
+    {
+      "name": "ScottyBeam",
+      "slug": "scottybeam",
+      "date": "2022-05-19",
+      "highlight": "Cross-chain NFT teleporter(bridge) and INO platform",
+      "logo": "/img/scottybeam.svg",
+      "tags": [
+        "bridge",
+        "multi-chain",
+        "dapp",
+        "infrastructure",
+        "launchpads",
+        "nft",
+        "tools"
+      ],
+      "status": "live",
+      "website": "https://scottybeam.io/",
+      "twitter": "https://twitter.com/ScottyBeamIO",
+      "summary": "Scotty Beam is the world's first cross-chain NFT teleporter and cross-chain INO platform – here to help cryptonians move NFTs across blockchain galaxies; connecting Metaverses, games and marketplaces; cut through complexity; maximize value and fun throughout the voyage!",
+      "telegram": "https://t.me/ScottyBeamIO",
+      "docs": "https://scottybeam.gitbook.io/",
+      "github": "https://github.com/ScottyBeam/",
+      "token": "SCOTTY",
+      "cmc": "https://coinmarketcap.com/currencies/scottybeam/"
+    },
+    {
+      "name": "Secure3",
+      "slug": "secure3",
+      "date": "2022-12-16",
+      "highlight": "Secure3 provides trustworthy security services for projects, competitive incentive model for auditors and white hats, and verifiable security track record for the community",
+      "logo": "/img/secure3.svg",
+      "tags": [
+        "security",
+        "ecosystem",
+        "infrastructure",
+        "tools"
+      ],
+      "status": "live",
+      "website": "https://www.Secure3.io",
+      "twitter": "https://twitter.com/secure3io",
+      "summary": "Empower a more Affordable, Efficient, and Secure Web3",
+      "docs": "https://www.secure3.io/academy",
+      "github": ""
+    },
+    {
       "name": "Securitize",
       "slug": "securitize",
       "tags": [
@@ -2902,6 +5025,26 @@
       "token": ""
     },
     {
+      "name": "Set Protocol",
+      "slug": "set-protocol",
+      "tags": [
+        "defi"
+      ],
+      "status": "",
+      "highlight": "An asset management protocol powering the world's best on-chain index products.",
+      "logo": "/img/set-protocol.svg",
+      "website": "https://www.tokensets.com/explore",
+      "twitter": "https://twitter.com/SetProtocol",
+      "telegram": "",
+      "github": "https://github.com/SetProtocol",
+      "discord": "https://discord.gg/MJR4dUdd",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Shopping.io",
       "slug": "shopping-io",
       "tags": [
@@ -2915,6 +5058,27 @@
       "telegram": "https://t.me/+gqSAEZgKdu4yOTZk",
       "github": "",
       "discord": "https://discord.com/invite/QqgJerKEsW",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Shrapnel",
+      "slug": "shrapnel",
+      "tags": [
+        "gaming",
+        "fps"
+      ],
+      "status": "In development",
+      "highlight": " AAA Extraction FPS powered by next-gen community-driven tools, built on the blockchain to offer true ownership.",
+      "logo": "/img/shrapnel.jpg",
+      "website": "https://www.shrapnel.com/",
+      "twitter": "https://twitter.com/playSHRAPNEL",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/shrapnel",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -2962,6 +5126,48 @@
       "token": ""
     },
     {
+      "name": "Sky Meta",
+      "slug": "skymeta",
+      "tags": [
+        "gaming",
+        "guild"
+      ],
+      "status": "Live",
+      "highlight": "Utilize our platform to research opportunities, build up your GameFi portfolio, and start earning. Our goal is to help make GameFi accessible for everyone.",
+      "logo": "/img/skymeta.png",
+      "website": "https://skymeta.io/",
+      "twitter": "https://discord.gg/c6gDu3kK",
+      "telegram": "https://t.me/skymeta",
+      "github": "",
+      "discord": "https://discord.gg/c6gDu3kK",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Smashverse",
+      "slug": "smashverse",
+      "tags": [
+        "gaming",
+        "mmorpg"
+      ],
+      "status": "In development",
+      "highlight": "Next generation brawl game. Battle. Smash. Earn. ",
+      "logo": "/img/smashverse.png",
+      "website": "https://www.smashverse.com/",
+      "twitter": "http://twitter.com/smashversegame",
+      "telegram": "",
+      "github": "",
+      "discord": "http://discord.gg/smashverse",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Snail Trail",
       "slug": "snailtrail",
       "date": "2022-02-04",
@@ -2984,6 +5190,27 @@
       "cmc": ""
     },
     {
+      "name": "Snake City",
+      "slug": "snakecity",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "In development",
+      "highlight": "P2E NFT game inspired by the famous Slither.io ",
+      "logo": "/img/snakecity.jpg",
+      "website": "https://snakecity.io/",
+      "twitter": "https://twitter.com/snakecity_io",
+      "telegram": "https://t.me/snakecity_io",
+      "github": "",
+      "discord": "https://discord.gg/qEvNmex6wR",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Snowball",
       "slug": "snowball",
       "tags": [
@@ -3004,6 +5231,50 @@
       "token": ""
     },
     {
+      "name": "Snowcone",
+      "slug": "snw",
+      "date": "2022-08-15",
+      "highlight": "A suite of tools for DAO creation funding, and organizational management.",
+      "logo": "/img/SnowCone.png",
+      "tags": [
+        "dao",
+        "defi",
+        "dapp"
+      ],
+      "status": "comming soon",
+      "website": "https://www.snowcones.io",
+      "twitter": "https://twitter.com/SnowConeDAO",
+      "summary": "",
+      "telegram": "",
+      "discord": "https://discord.com/invite/zhdPepG5Ww",
+      "docs": "",
+      "github": "https://github.com/SnowConeDao",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "SolidityScan",
+      "slug": "SolidityScan",
+      "date": "2021-07-29",
+      "highlight": "Your One-Stop Shop for Smart Contract Security",
+      "logo": "/img/solidityscan.svg",
+      "tags": [
+        "security",
+        "tools",
+        "infrastructure"
+      ],
+      "status": "live",
+      "website": "https://solidityscan.com/",
+      "twitter": "https://twitter.com/solidityscan",
+      "summary": "Scan your Avalanche Smart Contracts on the most reliable audit tool for quick, detailed, and most accurate results to make your dApp completely safe and secure.",
+      "telegram": "https://t.me/solidityscan",
+      "discord": "https://discord.gg/492nbXRj",
+      "docs": "https://docs.solidityscan.com/",
+      "github": "",
+      "token": "",
+      "cmc": ""
+    },
+    {
       "name": "StackOS",
       "slug": "stackos",
       "tags": [
@@ -3017,6 +5288,48 @@
       "telegram": "https://t.me/StackOS",
       "github": "",
       "discord": "https://discord.gg/W3phTcR8sS",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Steadefi",
+      "slug": "steadefi",
+      "tags": [
+        "defi",
+        "lending",
+        "yield farming"
+      ],
+      "status": "coming soon",
+      "highlight": "DeFi protocol combining leverage and risk management strategies to earn yield from yield farming, liquid staking, leverage fees and volatility premiums.",
+      "logo": "/img/steadefi.png",
+      "website": "https://steadefi.com/",
+      "twitter": "https://twitter.com/steadefi",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "Steadefi provides institutional-level risk management strategies for everyone. Easily access automated and sophisticated strategies and earn real yield in any market conditions.",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "StructFi",
+      "slug": "structfi",
+      "tags": [
+        "defi"
+      ],
+      "status": "Testnet",
+      "highlight": "Leading options protocol that gives users access to European options, options combos and exotic options. ",
+      "logo": "/img/structfi.svg",
+      "website": "https://www.struct.fi/",
+      "twitter": "https://twitter.com/StructFinance",
+      "telegram": "",
+      "github": "",
+      "discord": "",
       "summary": "",
       "docs": "",
       "cmc": "",
@@ -3043,6 +5356,74 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Swapsicle",
+      "slug": "swapsicle",
+      "tags": [
+        "defi",
+        "exchange",
+        "dex",
+        "swap"
+      ],
+      "status": "live",
+      "highlight": "DeFi but with more flavour, built by the community, for the community.",
+      "logo": "/img/swapsicle.png",
+      "website": "https://www.swapsicle.io/",
+      "twitter": "https://twitter.com/SwapsicleDEX",
+      "telegram": "",
+      "github": "https://github.com/swapsicledex",
+      "discord": "https://discord.gg/swapsicle",
+      "summary": "",
+      "docs": "https://docs.swapsicle.io/",
+      "cmc": "https://coinmarketcap.com/currencies/swapsicle/",
+      "date": "2022-10-13",
+      "token": "POPS"
+    },
+    {
+      "name": "Swimmer Network Subnet",
+      "slug": "swimmersubnet",
+      "tags": [
+        "subnet",
+        "gaming",
+        "nft"
+      ],
+      "status": "live",
+      "highlight": "An Avalanche Subnet: Home to Crabada, an undersea world filled with fierce fighting Hermit-Crabs called Crabada. Crabada can be bred, and used in games to earn cryptocurrencies with real value.",
+      "logo": "/img/swimmersubnet.png",
+      "website": "https://www.swimmer.network/",
+      "twitter": "https://twitter.com/swimmer_network",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.com/invite/PlayCrabada",
+      "summary": "",
+      "docs": "",
+      "cmc": "https://www.coingecko.com/en/coins/treasure-under-sea",
+      "data": "",
+      "token": ""
+    },
+    {
+      "name": "Synapse Protocol",
+      "slug": "synapse-protocol",
+      "date": "2021-10-1",
+      "highlight": "Synapse Protocol is a cross-chain communications network used to seamlessly interconnect all blockchains.",
+      "logo": "img/synapse.png",
+      "tags": [
+        "swap",
+        "bridge",
+        "multi-chain",
+        "amm"
+      ],
+      "status": "live",
+      "website": "https://synapseprotocol.com",
+      "twitter": "https://twitter.com/SynapseProtocol",
+      "summary": " The Synapse Protocol is comprised of a messaging framework and an economically secure method to reach consensus on the validity of cross-chain transactions which developers can leverage to build truly native cross-chain applications.",
+      "telegram": "https://t.me/synapseprotocol",
+      "discord": "http://discord.gg/synapseprotocol",
+      "docs": "https://docs.synapseprotocol.com/",
+      "github": "https://github.com/synapsecns/synapse-contracts",
+      "token": "SYN",
+      "cmc": "https://coinmarketcap.com/currencies/synapse-2//"
     },
     {
       "name": "TaleCraft",
@@ -3147,6 +5528,27 @@
       "token": ""
     },
     {
+      "name": "Time Shuffle",
+      "slug": "timeshuffle",
+      "tags": [
+        "gaming",
+        "rts"
+      ],
+      "status": "In development",
+      "highlight": "Play-and-Earn NFT based battle-arena, set in time-traveling universe",
+      "logo": "/img/timeshuffle.png",
+      "website": "https://timeshuffle.io/",
+      "twitter": "https://twitter.com/TimeShuffleGame",
+      "telegram": "https://t.me/timeshufflegame",
+      "github": "",
+      "discord": "https://discord.com/invite/timeshuffle",
+      "summary": "TimeShuffle is a play-and-earn turn-based strategy game with heroes from across history battling together and against each other in procedurally generated battlefield arenas. Each player can start his conquest with a free to play hero and progress his heroes as they play unlocking the full potential of the crypto gaming and play-and-earn model.",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Tin Network",
       "slug": "tin-network",
       "tags": [
@@ -3165,6 +5567,46 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Tiny Bones",
+      "slug": "tinybones",
+      "tags": [
+        "gaming",
+        "casual"
+      ],
+      "status": "In development",
+      "highlight": "Open world for those with Tiny Bones NFTs to interact and socialize",
+      "logo": "/img/tinybones.jpg",
+      "website": "https://tinybones.club/",
+      "twitter": "https://twitter.com/TinyBonesClub",
+      "telegram": "",
+      "github": "",
+      "discord": "http://discord.gg/tinybones",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Token Tool by Bitbond",
+      "slug": "token-tool",
+      "date": "2022-02-28",
+      "highlight": "Create, manage and distribute tokens effortlessly on Avalanche",
+      "logo": "/img/token-tool.png",
+      "tags": [
+        "tools",
+        "digital securities",
+        "launchpads",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://tokentool.bitbond.com/",
+      "twitter": "https://twitter.com/bitbond",
+      "summary": "Token Tool by Bitbond enables users to effortlessly configure, launch and manage smart contracts for various tokens across leading EVM chains (Ethereum, Polygon, Avalanche, BNB Chain). Features include minting/burning, managing contract ownership. multisend, creating liquidity pools and more. Token Tool offers wallet connectivity for Metamask, Wallet Connect, Coinbase Wallet and Ledger.",
+      "telegram": "https://t.me/TokenToolBitbond",
+      "docs": "https://docs.bitbond.com/asset-tokenization-suite/token-tool/"
     },
     {
       "name": "Topps NFTs",
@@ -3227,6 +5669,27 @@
       "docs": "",
       "cmc": "",
       "date": "",
+      "token": ""
+    },
+    {
+      "name": "Treehouse",
+      "slug": "treehouse",
+      "date": "2022-09-23",
+      "highlight": "DeFi's most comprehensive portfolio analytics platform, deconstructing users’ positions to analyze risk, track historical wallet data, and calculate profit & loss. Support for Avalanche, BNB Chain, and Ethereum.",
+      "logo": "/img/treehouse.svg",
+      "tags": [
+        "defi",
+        "dapp",
+        "portfolio"
+      ],
+      "status": "live",
+      "website": "https://harvest.treehouse.finance/connect",
+      "twitter": "https://twitter.com/TreehouseFi",
+      "summary": "",
+      "telegram": "https://t.me/treehouseinsights",
+      "discord": "https://discord.com/invite/MtRzKakPT3",
+      "docs": "https://www.treehouse.finance/docs/introe",
+      "github": "",
       "token": ""
     },
     {
@@ -3311,6 +5774,93 @@
       "token": ""
     },
     {
+      "name": "Unmarshal",
+      "slug": "unmarshal",
+      "date": "",
+      "highlight": "Unmarshal is a Multi-chain Web 3.0 data network aiming to deliver granular, reliable & real-time data to dApps, DeFi protocols, NFTs, Metaverse and GameFi solutions.",
+      "logo": "/img/unmarshal.svg",
+      "tags": [
+        "multi-chain",
+        "api",
+        "infrastructure",
+        "explorer"
+      ],
+      "status": "live",
+      "website": "https://unmarshal.io/",
+      "twitter": "https://twitter.com/unmarshal",
+      "summary": "",
+      "telegram": "https://t.me/Unmarshal_Chat",
+      "discord": "https://discord.com/invite/SqhYdGYtEr",
+      "docs": "https://docs.unmarshal.io/",
+      "github": "https://github.com/eucrypt",
+      "token": "MARSH",
+      "cmc": "https://coinmarketcap.com/currencies/unmarshal/"
+    },
+    {
+      "name": "Uplift",
+      "slug": "uplift",
+      "date": "",
+      "highlight": "Uplift's IDO platform facilitates and fosters the growth of all projects in the Uplift ecosystem; connecting projects with stakeholders and connecting investors with best in class investment opportunities.",
+      "logo": "/img/uplift.png",
+      "tags": [
+        "dao",
+        "launchpads",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://www.uplift.io/",
+      "twitter": "https://twitter.com/UpliftDao",
+      "summary": "Uplift DAO is a multi-award-winning launchpad for IDOs, which offers its users unprecedented access to early-round investment opportunities. They source the best-in-class Web3 projects, sharing Deal Flow with the top VC and market maker companies in the sector. Once a project has been selected for potential launch, Uplift works with the industry's leading auditor companies and due diligence teams to carry out extensive research on the prospective project before it's signed off to be presented to Uplift's community of investors. They assess the entire project, from the team of founders to the technology behind it, to ensure the project can be trusted and offers a viable use case and ultimately an excellent investment for Uplift's users.",
+      "telegram": "https://t.me/upliftdao",
+      "discord": "https://discord.com/invite/mqTdd5P5jJ",
+      "docs": "https://docs.uplift.io",
+      "github": "https://github.com/UpliftDAO",
+      "token": "",
+      "cmc": ""
+    },
+    {
+      "name": "VCRED",
+      "slug": "VCRED",
+      "tags": [
+        "defi",
+        "amm",
+        "dex"
+      ],
+      "status": "",
+      "highlight": "",
+      "logo": "/img/VCRED_logo.png",
+      "website": "https://vcred.trade",
+      "twitter": "https://twitter.com/cred_v",
+      "telegram": "",
+      "github": "",
+      "discord": "discord.gg/vcred",
+      "summary": "A DeFi protocol built around automation, our smart Market Maker introduces a new paradigm for treasury, launches and staking",
+      "docs": "https://docs.vcred.trade/",
+      "cmc": "",
+      "date": "06/21",
+      "token": ""
+    },
+    {
+      "name": "Vector Finance",
+      "slug": "vectorfinance",
+      "date": "2022-02-27",
+      "highlight": "Vector Finance magnifies your DeFi yields for Platypus and Trader Joe",
+      "logo": "/img/vectorfinance.jpeg",
+      "tags": [
+        "defi",
+        "yield farming"
+      ],
+      "status": "Live",
+      "website": "https://vectorfinance.io/",
+      "twitter": "https://twitter.com/vector_fi",
+      "summary": "Vector Finance is a protocol that synergistically integrates with Platypus Finance and Trader Joe. Vector enables users to generate boosted yields on their stablecoins or JOE LP deposits, even if they don’t own any PTP or JOE. Vector is able to do this by aggregating PTP and JOE from users who choose to convert their PTP or JOE on our platform. In doing so, Vector unlocks utility for the PTP and JOE tokens: users who convert their PTP into xPTP, or their JOE into zJOE receive a portion of the yield generated by the protocol. This allows for better capital efficiency and a more diverse user base for Platypus and Trader Joe. VTX (Vector's governance token) receives a share of Vector's revenue (~33.3%) and unlocks the highly sought after voting power from PTP or JOE holders who may not be as concerned with governance. VTX is rewarded to xPTP and zJOE stakers, stablecoin and JOE LP depositors, and liquidity providers for our tokens.",
+      "telegram": "https://t.me/vector_fi",
+      "discord": "https://discord.gg/vectorfinance",
+      "docs": "https://docs.vectorfinance.io/",
+      "token": "VTX",
+      "cmc": "https://coinmarketcap.com/currencies/vector-finance/"
+    },
+    {
       "name": "Velox",
       "slug": "velox",
       "tags": [
@@ -3373,6 +5923,50 @@
       "token": ""
     },
     {
+      "name": "Volare",
+      "slug": "volare",
+      "tags": [
+        "options",
+        "defi"
+      ],
+      "status": "Testnet",
+      "highlight": "Leading options protocol that gives users access to European options, options combos and exotic options. ",
+      "logo": "/img/volare.svg",
+      "website": "https://volare.finance/",
+      "twitter": "https://twitter.com/FinanceVolare",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Vottun",
+      "slug": "vottun",
+      "date": "2022-07-13",
+      "highlight": "Multi-blockchain API platform, The Wordpress of Web3.",
+      "logo": "/img/vottun.jpg",
+      "tags": [
+        "api",
+        "nft",
+        "multi-chain",
+        "tools"
+      ],
+      "status": "live",
+      "website": "https://vottun.com/",
+      "twitter": "https://twitter.com/vottun",
+      "summary": "Vottun platform is a BaaS layer that facilitates the integration of blockchain networks through APIs, it helps any company or individual to create blockchain based solutions in a simple way, featuring solutions for supply chain traceability, NFTs, credentials, payments, certificates and other crypto services such as custody or De-Fi.",
+      "telegram": "https://t.me/vottun",
+      "discord": "https://discord.gg/XJCHebGnxD",
+      "docs": "",
+      "github": "",
+      "token": "VTN",
+      "cmc": ""
+    },
+    {
       "name": "Voyager",
       "slug": "voyager",
       "tags": [
@@ -3414,6 +6008,146 @@
       "token": ""
     },
     {
+      "name": "Warbots",
+      "slug": "warbots",
+      "tags": [
+        "gaming",
+        "rts"
+      ],
+      "status": "",
+      "highlight": "Rise of the Warbots is a PVP P2E NFT gaming experience built on Avalanche C-Chain",
+      "logo": "/img/warbots.jpg",
+      "website": "https://riseofthewarbots.com/",
+      "twitter": "https://twitter.com/WarbotsOfficial",
+      "telegram": "https://t.me/WarbotsOfficial",
+      "github": "",
+      "discord": "https://discord.com/invite/RQDyKAY",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": "$MMAC $NMAC"
+    },
+    {
+      "name": "Web3js",
+      "slug": "web3js",
+      "tags": [
+        "security",
+        "sdk",
+        "tools"
+      ],
+      "status": "Live",
+      "highlight": "Javascript Library for the EVM ",
+      "logo": "/img/web3js.svg",
+      "website": "https://github.com/web3/web3.js",
+      "twitter": "",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Wirex App",
+      "slug": "wirex-app",
+      "date": "06-01-14",
+      "highlight": "Buy, store, exchange and spend fiat and more than 37 cryptocurrencies anytime, anywhere, using the Wirex app.",
+      "logo": "/img/wirex_app_logo.svg",
+      "tags": [
+        "fiat ramp",
+        "payments",
+        "cex"
+      ],
+      "status": "live",
+      "website": "https://wirexapp.com/",
+      "twitter": "https://twitter.com/wirexapp",
+      "summary": "Wirex is a worldwide digital payment platform and regulated institution, that has forged new rules in the digital payments space. In 2015, the firm developed the world’s first contactless payment card that gives users the ability to seamlessly spend crypto and traditional currencies in real life. Wirex’s mission is to bridge the gap between conventional and cryptocurrencies with an overall goal to usher in a cashless society and the mainstream adoption of the digital economy.",
+      "token": "WXT",
+      "cmc": "https://coinmarketcap.com/currencies/wirex-token/"
+    },
+    {
+      "name": "Wirex Wallet",
+      "slug": "wirex-wallet",
+      "date": "2022-05-25",
+      "highlight": "Safest Mobile Wallet With No Key Management (MPC Signature)",
+      "logo": "/img/wirex_wallet.svg",
+      "tags": [
+        "wallet",
+        "multi-chain"
+      ],
+      "status": "live",
+      "website": "https://wirexapp.com/wirex-wallet",
+      "twitter": "https://twitter.com/wirexapp",
+      "summary": "The Wirex Wallet is an innovative keyless non-custodial crypto wallet for storing and earning rewards to your crypto assets and NFTs.",
+      "token": "WXT",
+      "cmc": "https://coinmarketcap.com/currencies/wirex-token/"
+    },
+    {
+      "name": "Wrapped",
+      "date": "2021-10-01",
+      "slug": "wrapped",
+      "tags": [
+        "bridge",
+        "enterprise",
+        "institutional",
+        "multi-chain"
+      ],
+      "status": "live",
+      "highlight": "A cross-chain institutional bridge, designed for high-performance and speed",
+      "logo": "/img/wrapped.svg",
+      "website": "https://wrapped.com",
+      "twitter": "https://twitter.com/wrappedfi",
+      "telegram": "http://t.me/wrappedfi",
+      "github": "https://github.com/wrappedfi",
+      "summary": "Wrapped.com lets investors use their digital assets to lend, borrow, and trade on all major DeFi platforms. Each wrapped asset is fully-collateralized and held with a qualified custodian.",
+      "docs": "https://docs.wrapped.com/"
+    },
+    {
+      "name": "WrapTag",
+      "slug": "wraptagsubnet",
+      "tags": [
+        "subnet",
+        "NFT"
+      ],
+      "status": "live",
+      "highlight": "An Avalanche Subnet: WrapTag brings trust, value, and transparency into authentic collections with irreversible ownership history exists on an NFT + Physical NFC Tag+ Decentralized Web App",
+      "logo": "/img/wraptagsubnet.png",
+      "website": "https://wraptag.io/en/",
+      "twitter": "https://twitter.com/wraptag_io",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "data": "",
+      "token": ""
+    },
+    {
+      "name": "Wyndblast",
+      "slug": "wyndblast",
+      "tags": [
+        "gaming",
+        "idle"
+      ],
+      "status": "In development",
+      "highlight": "Lore driven one-of-a-kind multiplayer strategy auto-battler P2E game set in an adorabley vibrant fantasy universe  ",
+      "logo": "/img/wyndblast.png",
+      "website": "https://wyndblast.com/",
+      "twitter": "https://twitter.com/WyndBlast",
+      "telegram": "https://t.me/wyndblast",
+      "github": "",
+      "discord": "https://discord.gg/NgjwWGTSeb",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Wyre",
       "slug": "wyre",
       "tags": [
@@ -3436,6 +6170,28 @@
       "token": ""
     },
     {
+      "name": "XDEFI Wallet",
+      "slug": "xdefi",
+      "date": "2022-07-11",
+      "highlight": "One wallet for all your crypto. Store, send and receive all Avalanche assets, including NFTs with XDEFI Wallet.",
+      "logo": "/img/xdefi.png",
+      "tags": [
+        "wallet",
+        "nft",
+        "swap"
+      ],
+      "status": "live",
+      "website": "https://www.xdefi.io/",
+      "twitter": "https://twitter.com/xdefi_wallet",
+      "summary": "XDEFI Wallet is a multi-chain web3 browser extension wallet - currently supporting 13 different blockchains including Avalanche. XDEFI Wallet has a user base of more than 100,000 weekly active users, allowing them to connect to thousands of decentralised applications, securely store all their crypto assets, as well as manage their NFTs.",
+      "telegram": "https://t.me/xdefi_io",
+      "discord": "https://discord.gg/xdefiwallet",
+      "docs": "https://documents.xdefi.io/",
+      "github": "https://github.com/XDeFi-tech",
+      "token": "XDEFI",
+      "cmc": "https://coinmarketcap.com/currencies/xdefi-wallet/"
+    },
+    {
       "name": "XP.network NFT Multi-Chain Bridge",
       "slug": "xp-network-bridge",
       "date": "2021-10-31",
@@ -3447,7 +6203,7 @@
         "multi-chain",
         "dapp",
         "api",
-        "gaming",
+        "infrastructure",
         "tools"
       ],
       "status": "live",
@@ -3460,6 +6216,31 @@
       "github": "https://github.com/xp-network/",
       "token": "XPNET",
       "cmc": "https://coinmarketcap.com/currencies/xp-network/"
+    },
+    {
+      "name": "XY Finance",
+      "slug": "xy-finance",
+      "date": "2021-08-24",
+      "highlight": "XY Finance is a cross-chain interoperability protocol aggregating DEXs & Bridges. With the ultimate routing across multi-chains, borderless and seamless swapping is just one click away.",
+      "logo": "/img/xy-finance.png",
+      "tags": [
+        "bridge",
+        "multi-chain",
+        "defi",
+        "dex",
+        "swap",
+        "trading"
+      ],
+      "status": "live",
+      "website": "https://xy.finance/",
+      "twitter": "https://twitter.com/xyfinance",
+      "summary": "XY Finance is a cross-chain interoperability protocol aggregating DEXs & Bridges. With the ultimate routing across multi-chains, borderless and seamless swapping is just one click away. Currently, we have supported 13 chains, including Ethereum, BSC, Fantom, Polygon, Arbitrum, Optimism, Avalanche C-Chain, Cronos, KCC, ThunderCore, Klaytn, Astar, and Moonriver.",
+      "telegram": "https://t.me/xyfinance",
+      "discord": "https://discord.com/invite/xyfinance",
+      "docs": "https://docs.xy.finance/",
+      "github": "https://github.com/xy-finance",
+      "token": "XY",
+      "cmc": "https://coinmarketcap.com/currencies/xy-finance/"
     },
     {
       "name": "Yay Games",
@@ -3475,6 +6256,27 @@
       "twitter": "https://twitter.com/yayprotocol",
       "telegram": "https://t.me/yay_games",
       "github": "https://github.com/YAY-Games",
+      "discord": "",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
+      "name": "Yeti Finance",
+      "slug": "yeti-finance",
+      "tags": [
+        "lending",
+        "defi"
+      ],
+      "status": "Live",
+      "highlight": "Yield-bearing asset lending protocol that allows users to generate more yield. ",
+      "logo": "/img/yeti-finance.svg",
+      "website": "https://yetifinance.co/",
+      "twitter": "https://twitter.com/YetiFinance",
+      "telegram": "",
+      "github": "",
       "discord": "",
       "summary": "",
       "docs": "",
@@ -3563,6 +6365,72 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Zerion Wallet",
+      "slug": "zerion",
+      "date": "2022-07-12",
+      "highlight": "A smart and social wallet for Web3.",
+      "logo": "/img/zerion.png",
+      "tags": [
+        "wallet",
+        "multi-chain",
+        "dashboard",
+        "dapp"
+      ],
+      "status": "live",
+      "website": "https://app.zerion.io/",
+      "twitter": "https://twitter.com/zerion_io",
+      "summary": "Zerion Wallet helps users manage their Avalanche portfolios and positions across DeFi protocols on Avalanche. Zerion’s built-in trading and bridging aggregator also helps users find the best deals. Zerion shares many of its tools to help other builders. The Websocket API lets developers integrate the whole of DeFi into their applications without running their own infrastructure. Zerion’s DeFi SDK, a set of open-source smart contracts, makes it easier to trade across networks, query assets, and interact with major DeFi protocols.",
+      "discord": "https://zerion.io/discord",
+      "docs": "https://docs.zerion.io/",
+      "github": "https://github.com/zeriontech"
+    },
+    {
+      "name": "Zero Code NFT",
+      "slug": "zerocodenft",
+      "tags": [
+        "nft",
+        "launchpads",
+        "multi-chain",
+        "dapp",
+        "dashboard"
+      ],
+      "status": "live",
+      "highlight": "Drop Your NFT Collection With ZERO Coding Skills. Seamless solution to create a smart contract & minting page without giving up any royalties",
+      "logo": "/img/zerocodenft.svg",
+      "website": "https://zerocodenft.com",
+      "twitter": "https://twitter.com/zero_code_nft",
+      "telegram": "",
+      "github": "https://zerocodenft.com",
+      "discord": "https://discord.gg/zerocodenft",
+      "summary": "We offer an advanced no-code tool to simplify the smart contract development and deployment process, allowing you to launch your NFTs with no previous coding experience. Tools include: whitelist, delayed reveal, low gas smart contracts, airdrop, revenue splits, snapshots and more!",
+      "docs": "",
+      "cmc": "",
+      "date": "2022-02-10",
+      "token": ""
+    },
+    {
+      "name": "Zokyo",
+      "slug": "zokyo",
+      "date": "05-2019",
+      "highlight": "Smart Contracts auditing, web penetration, open source code auditing",
+      "logo": "/img/zokyo.png",
+      "tags": [
+        "security",
+        "defi",
+        "enterprise"
+      ],
+      "status": "live",
+      "website": "http://zokyo.io/",
+      "twitter": "https://twitter.com/ZOKYO_io?t=qzlduKlyYIVA9Jytm93ftA&s=09",
+      "summary": "Zokyo is a venture studio that builds, secures, and funds crypto, DeFi, and NFT companies.",
+      "telegram": "",
+      "discord": "",
+      "docs": "",
+      "github": "https://github.com/zokyo-security",
+      "token": "",
+      "cmc": ""
     }
   ]
 }
